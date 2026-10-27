@@ -2,6 +2,8 @@
 
 > **A machine-learning powered customer churn prediction and retention strategy dashboard for the FreshBasket Loyalty Program.**
 
+
+>**Project Explanation Video: https://drive.google.com/file/d/1jrX95RF6Jsd0WtimHtCqVfV4PFPtcj2d/view?usp=sharing **
 ---
 
 ## Table of Contents
