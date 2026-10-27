@@ -1,0 +1,2275 @@
+CUSTOMER_ID,CHURN_PROBABILITY,PREDICTED_CHURNED,RISK_LEVEL,DATA_SPLIT
+500001,0.18,0,Safe (No Action),Train Set
+500002,0.17,0,Safe (No Action),Test Set
+500003,0.04,0,Safe (No Action),Train Set
+500004,0.06,0,Safe (No Action),Train Set
+500005,0.04,0,Safe (No Action),Train Set
+500006,0.11,0,Safe (No Action),Train Set
+500007,0.05,0,Safe (No Action),Train Set
+500008,0.02,0,Safe (No Action),Train Set
+500009,0.34,0,Low Risk (Automated Email),Test Set
+500010,0.12,0,Safe (No Action),Train Set
+500012,0.04,0,Safe (No Action),Train Set
+500013,0.09,0,Safe (No Action),Train Set
+500015,0.09,0,Safe (No Action),Train Set
+500016,0.1,0,Safe (No Action),Test Set
+500017,0.83,1,High Risk (High-Value Incentive),Train Set
+500018,0.25,0,Safe (No Action),Test Set
+500019,0.79,1,High Risk (High-Value Incentive),Train Set
+500020,0.12,0,Safe (No Action),Train Set
+500021,0.05,0,Safe (No Action),Train Set
+500022,0.42,1,Medium Risk (Targeted Offer),Test Set
+500023,0.05,0,Safe (No Action),Train Set
+500024,0.81,1,High Risk (High-Value Incentive),Train Set
+500027,0.09,0,Safe (No Action),Train Set
+500028,0.02,0,Safe (No Action),Train Set
+500029,0.17,0,Safe (No Action),Test Set
+500030,0.5,1,Medium Risk (Targeted Offer),Test Set
+500031,0.3,0,Low Risk (Automated Email),Train Set
+500032,0.78,1,High Risk (High-Value Incentive),Train Set
+500033,0.05,0,Safe (No Action),Train Set
+500034,0.88,1,High Risk (High-Value Incentive),Train Set
+500035,0.02,0,Safe (No Action),Train Set
+500036,0.58,1,Medium Risk (Targeted Offer),Test Set
+500037,0.1,0,Safe (No Action),Train Set
+500038,0.33,0,Low Risk (Automated Email),Test Set
+500039,0.07,0,Safe (No Action),Train Set
+500040,0.01,0,Safe (No Action),Train Set
+500041,0.01,0,Safe (No Action),Train Set
+500042,0.04,0,Safe (No Action),Train Set
+500043,0.12,0,Safe (No Action),Train Set
+500044,0.72,1,High Risk (High-Value Incentive),Train Set
+500045,0.94,1,High Risk (High-Value Incentive),Train Set
+500046,0.02,0,Safe (No Action),Train Set
+500047,0.68,1,Medium Risk (Targeted Offer),Train Set
+500048,0.06,0,Safe (No Action),Train Set
+500049,0.05,0,Safe (No Action),Test Set
+500050,0.11,0,Safe (No Action),Train Set
+500051,0.19,0,Safe (No Action),Train Set
+500052,0.21,0,Safe (No Action),Test Set
+500054,0.07,0,Safe (No Action),Train Set
+500055,0.73,1,High Risk (High-Value Incentive),Train Set
+500057,0.0,0,Safe (No Action),Train Set
+500058,0.22,0,Safe (No Action),Test Set
+500059,0.0,0,Safe (No Action),Train Set
+500060,0.02,0,Safe (No Action),Train Set
+500062,0.01,0,Safe (No Action),Train Set
+500064,0.05,0,Safe (No Action),Train Set
+500065,0.16,0,Safe (No Action),Train Set
+500066,0.04,0,Safe (No Action),Train Set
+500068,0.62,1,Medium Risk (Targeted Offer),Train Set
+500069,0.66,1,Medium Risk (Targeted Offer),Train Set
+500070,0.1,0,Safe (No Action),Train Set
+500071,0.03,0,Safe (No Action),Train Set
+500072,0.06,0,Safe (No Action),Train Set
+500073,0.07,0,Safe (No Action),Train Set
+500074,0.82,1,High Risk (High-Value Incentive),Train Set
+500075,0.08,0,Safe (No Action),Train Set
+500076,0.04,0,Safe (No Action),Train Set
+500077,0.76,1,High Risk (High-Value Incentive),Train Set
+500078,0.28,0,Safe (No Action),Test Set
+500079,0.92,1,High Risk (High-Value Incentive),Train Set
+500080,0.03,0,Safe (No Action),Train Set
+500081,0.02,0,Safe (No Action),Train Set
+500082,0.82,1,High Risk (High-Value Incentive),Test Set
+500083,0.04,0,Safe (No Action),Train Set
+500084,0.75,1,High Risk (High-Value Incentive),Train Set
+500085,0.87,1,High Risk (High-Value Incentive),Train Set
+500086,0.54,1,Medium Risk (Targeted Offer),Test Set
+500088,0.06,0,Safe (No Action),Train Set
+500089,0.92,1,High Risk (High-Value Incentive),Train Set
+500090,0.3,0,Low Risk (Automated Email),Test Set
+500091,0.04,0,Safe (No Action),Train Set
+500092,0.69,1,Medium Risk (Targeted Offer),Train Set
+500093,0.02,0,Safe (No Action),Train Set
+500094,0.98,1,High Risk (High-Value Incentive),Train Set
+500096,0.03,0,Safe (No Action),Train Set
+500097,0.02,0,Safe (No Action),Train Set
+500098,0.06,0,Safe (No Action),Train Set
+500099,0.71,1,High Risk (High-Value Incentive),Train Set
+500100,0.08,0,Safe (No Action),Train Set
+500101,0.97,1,High Risk (High-Value Incentive),Train Set
+500103,0.12,0,Safe (No Action),Test Set
+500104,0.21,0,Safe (No Action),Train Set
+500105,0.07,0,Safe (No Action),Train Set
+500106,0.09,0,Safe (No Action),Train Set
+500107,0.92,1,High Risk (High-Value Incentive),Train Set
+500108,0.01,0,Safe (No Action),Train Set
+500109,0.92,1,High Risk (High-Value Incentive),Train Set
+500110,0.06,0,Safe (No Action),Train Set
+500111,0.02,0,Safe (No Action),Train Set
+500112,0.02,0,Safe (No Action),Train Set
+500115,0.1,0,Safe (No Action),Train Set
+500116,0.55,1,Medium Risk (Targeted Offer),Test Set
+500117,0.06,0,Safe (No Action),Train Set
+500119,0.66,1,Medium Risk (Targeted Offer),Train Set
+500121,0.61,1,Medium Risk (Targeted Offer),Test Set
+500122,0.02,0,Safe (No Action),Train Set
+500124,0.92,1,High Risk (High-Value Incentive),Train Set
+500125,0.61,1,Medium Risk (Targeted Offer),Test Set
+500126,0.04,0,Safe (No Action),Train Set
+500128,0.05,0,Safe (No Action),Train Set
+500129,0.8,1,High Risk (High-Value Incentive),Train Set
+500130,0.96,1,High Risk (High-Value Incentive),Train Set
+500131,0.05,0,Safe (No Action),Train Set
+500132,0.66,1,Medium Risk (Targeted Offer),Train Set
+500134,0.01,0,Safe (No Action),Train Set
+500135,0.62,1,Medium Risk (Targeted Offer),Test Set
+500136,0.02,0,Safe (No Action),Train Set
+500137,0.74,1,High Risk (High-Value Incentive),Test Set
+500138,0.02,0,Safe (No Action),Train Set
+500139,0.18,0,Safe (No Action),Train Set
+500140,0.05,0,Safe (No Action),Train Set
+500141,0.05,0,Safe (No Action),Train Set
+500142,0.05,0,Safe (No Action),Train Set
+500143,0.03,0,Safe (No Action),Train Set
+500144,0.0,0,Safe (No Action),Train Set
+500145,0.69,1,Medium Risk (Targeted Offer),Train Set
+500146,0.57,1,Medium Risk (Targeted Offer),Test Set
+500147,0.86,1,High Risk (High-Value Incentive),Test Set
+500148,0.12,0,Safe (No Action),Train Set
+500149,0.23,0,Safe (No Action),Train Set
+500151,0.93,1,High Risk (High-Value Incentive),Train Set
+500152,0.96,1,High Risk (High-Value Incentive),Train Set
+500153,0.86,1,High Risk (High-Value Incentive),Train Set
+500154,0.15,0,Safe (No Action),Train Set
+500155,0.31,0,Low Risk (Automated Email),Test Set
+500156,0.17,0,Safe (No Action),Train Set
+500157,0.86,1,High Risk (High-Value Incentive),Train Set
+500158,0.82,1,High Risk (High-Value Incentive),Train Set
+500159,0.12,0,Safe (No Action),Train Set
+500160,0.09,0,Safe (No Action),Train Set
+500161,0.09,0,Safe (No Action),Test Set
+500163,0.28,0,Safe (No Action),Test Set
+500164,0.04,0,Safe (No Action),Train Set
+500165,0.1,0,Safe (No Action),Train Set
+500166,0.34,0,Low Risk (Automated Email),Test Set
+500167,0.24,0,Safe (No Action),Train Set
+500168,0.03,0,Safe (No Action),Train Set
+500170,0.24,0,Safe (No Action),Test Set
+500171,0.01,0,Safe (No Action),Train Set
+500172,0.05,0,Safe (No Action),Train Set
+500173,0.99,1,High Risk (High-Value Incentive),Train Set
+500174,0.11,0,Safe (No Action),Test Set
+500175,0.21,0,Safe (No Action),Train Set
+500176,0.92,1,High Risk (High-Value Incentive),Train Set
+500178,0.11,0,Safe (No Action),Train Set
+500179,0.23,0,Safe (No Action),Train Set
+500180,0.07,0,Safe (No Action),Train Set
+500181,0.08,0,Safe (No Action),Train Set
+500182,0.06,0,Safe (No Action),Train Set
+500183,0.15,0,Safe (No Action),Train Set
+500184,0.04,0,Safe (No Action),Train Set
+500185,0.93,1,High Risk (High-Value Incentive),Train Set
+500186,0.85,1,High Risk (High-Value Incentive),Train Set
+500187,0.12,0,Safe (No Action),Test Set
+500188,0.03,0,Safe (No Action),Train Set
+500190,0.08,0,Safe (No Action),Train Set
+500191,0.17,0,Safe (No Action),Train Set
+500192,0.08,0,Safe (No Action),Train Set
+500193,0.27,0,Safe (No Action),Train Set
+500194,0.09,0,Safe (No Action),Train Set
+500195,0.23,0,Safe (No Action),Train Set
+500196,0.83,1,High Risk (High-Value Incentive),Train Set
+500197,1.0,1,High Risk (High-Value Incentive),Train Set
+500198,0.81,1,High Risk (High-Value Incentive),Test Set
+500199,0.02,0,Safe (No Action),Train Set
+500200,0.34,0,Low Risk (Automated Email),Test Set
+500201,0.7,1,High Risk (High-Value Incentive),Train Set
+500202,0.04,0,Safe (No Action),Test Set
+500203,0.98,1,High Risk (High-Value Incentive),Train Set
+500204,0.93,1,High Risk (High-Value Incentive),Train Set
+500205,0.03,0,Safe (No Action),Train Set
+500206,0.05,0,Safe (No Action),Train Set
+500207,0.9,1,High Risk (High-Value Incentive),Train Set
+500208,0.08,0,Safe (No Action),Train Set
+500209,0.12,0,Safe (No Action),Train Set
+500210,0.07,0,Safe (No Action),Train Set
+500211,0.89,1,High Risk (High-Value Incentive),Train Set
+500212,0.09,0,Safe (No Action),Train Set
+500215,0.05,0,Safe (No Action),Train Set
+500216,0.07,0,Safe (No Action),Test Set
+500217,0.79,1,High Risk (High-Value Incentive),Train Set
+500218,0.93,1,High Risk (High-Value Incentive),Train Set
+500219,0.16,0,Safe (No Action),Test Set
+500220,0.03,0,Safe (No Action),Train Set
+500221,0.83,1,High Risk (High-Value Incentive),Train Set
+500222,0.83,1,High Risk (High-Value Incentive),Train Set
+500223,0.14,0,Safe (No Action),Train Set
+500224,0.14,0,Safe (No Action),Train Set
+500225,0.78,1,High Risk (High-Value Incentive),Train Set
+500226,0.89,1,High Risk (High-Value Incentive),Train Set
+500227,0.75,1,High Risk (High-Value Incentive),Train Set
+500228,0.25,0,Safe (No Action),Test Set
+500229,0.1,0,Safe (No Action),Train Set
+500230,0.03,0,Safe (No Action),Train Set
+500231,0.05,0,Safe (No Action),Train Set
+500232,0.79,1,High Risk (High-Value Incentive),Train Set
+500233,0.08,0,Safe (No Action),Train Set
+500234,0.03,0,Safe (No Action),Train Set
+500235,0.66,1,Medium Risk (Targeted Offer),Train Set
+500236,0.78,1,High Risk (High-Value Incentive),Train Set
+500237,0.95,1,High Risk (High-Value Incentive),Train Set
+500238,0.12,0,Safe (No Action),Train Set
+500239,0.94,1,High Risk (High-Value Incentive),Train Set
+500241,0.02,0,Safe (No Action),Train Set
+500242,0.67,1,Medium Risk (Targeted Offer),Train Set
+500243,0.14,0,Safe (No Action),Train Set
+500244,0.95,1,High Risk (High-Value Incentive),Train Set
+500245,0.1,0,Safe (No Action),Test Set
+500246,0.74,1,High Risk (High-Value Incentive),Train Set
+500247,0.76,1,High Risk (High-Value Incentive),Train Set
+500249,0.95,1,High Risk (High-Value Incentive),Train Set
+500250,0.04,0,Safe (No Action),Train Set
+500251,0.16,0,Safe (No Action),Train Set
+500252,0.18,0,Safe (No Action),Test Set
+500253,0.05,0,Safe (No Action),Train Set
+500254,0.88,1,High Risk (High-Value Incentive),Train Set
+500255,0.07,0,Safe (No Action),Train Set
+500256,0.2,0,Safe (No Action),Test Set
+500257,0.04,0,Safe (No Action),Train Set
+500258,0.5,1,Medium Risk (Targeted Offer),Test Set
+500260,0.68,1,Medium Risk (Targeted Offer),Train Set
+500261,0.29,0,Safe (No Action),Test Set
+500262,0.67,1,Medium Risk (Targeted Offer),Train Set
+500263,0.54,1,Medium Risk (Targeted Offer),Test Set
+500264,0.04,0,Safe (No Action),Train Set
+500265,0.35,0,Low Risk (Automated Email),Test Set
+500266,0.05,0,Safe (No Action),Train Set
+500268,0.12,0,Safe (No Action),Train Set
+500269,0.71,1,High Risk (High-Value Incentive),Train Set
+500271,0.23,0,Safe (No Action),Train Set
+500272,0.68,1,Medium Risk (Targeted Offer),Train Set
+500274,0.91,1,High Risk (High-Value Incentive),Train Set
+500275,0.05,0,Safe (No Action),Train Set
+500276,0.78,1,High Risk (High-Value Incentive),Train Set
+500277,0.19,0,Safe (No Action),Train Set
+500278,0.86,1,High Risk (High-Value Incentive),Train Set
+500279,0.2,0,Safe (No Action),Train Set
+500281,0.9,1,High Risk (High-Value Incentive),Train Set
+500282,0.42,1,Medium Risk (Targeted Offer),Test Set
+500283,0.25,0,Safe (No Action),Test Set
+500284,0.96,1,High Risk (High-Value Incentive),Train Set
+500285,0.47,1,Medium Risk (Targeted Offer),Test Set
+500286,0.03,0,Safe (No Action),Train Set
+500287,0.01,0,Safe (No Action),Train Set
+500288,0.02,0,Safe (No Action),Train Set
+500289,0.62,1,Medium Risk (Targeted Offer),Train Set
+500290,0.54,1,Medium Risk (Targeted Offer),Test Set
+500291,0.04,0,Safe (No Action),Train Set
+500293,0.52,1,Medium Risk (Targeted Offer),Test Set
+500295,0.98,1,High Risk (High-Value Incentive),Train Set
+500297,0.25,0,Safe (No Action),Train Set
+500298,0.9,1,High Risk (High-Value Incentive),Train Set
+500299,0.02,0,Safe (No Action),Train Set
+500300,0.15,0,Safe (No Action),Train Set
+500301,0.03,0,Safe (No Action),Train Set
+500302,0.76,1,High Risk (High-Value Incentive),Train Set
+500303,0.83,1,High Risk (High-Value Incentive),Train Set
+500304,0.04,0,Safe (No Action),Train Set
+500305,0.07,0,Safe (No Action),Train Set
+500307,0.03,0,Safe (No Action),Train Set
+500308,0.08,0,Safe (No Action),Train Set
+500310,0.89,1,High Risk (High-Value Incentive),Train Set
+500312,0.02,0,Safe (No Action),Train Set
+500315,0.03,0,Safe (No Action),Train Set
+500316,0.95,1,High Risk (High-Value Incentive),Train Set
+500317,0.04,0,Safe (No Action),Train Set
+500318,0.17,0,Safe (No Action),Train Set
+500319,0.03,0,Safe (No Action),Train Set
+500320,0.76,1,High Risk (High-Value Incentive),Test Set
+500321,0.04,0,Safe (No Action),Train Set
+500322,0.07,0,Safe (No Action),Train Set
+500323,0.06,0,Safe (No Action),Train Set
+500324,0.77,1,High Risk (High-Value Incentive),Train Set
+500325,0.23,0,Safe (No Action),Train Set
+500326,0.05,0,Safe (No Action),Train Set
+500327,0.04,0,Safe (No Action),Train Set
+500328,0.61,1,Medium Risk (Targeted Offer),Test Set
+500329,0.06,0,Safe (No Action),Test Set
+500330,0.07,0,Safe (No Action),Train Set
+500331,0.06,0,Safe (No Action),Test Set
+500333,0.97,1,High Risk (High-Value Incentive),Train Set
+500334,0.05,0,Safe (No Action),Train Set
+500335,0.04,0,Safe (No Action),Train Set
+500336,0.13,0,Safe (No Action),Train Set
+500337,0.14,0,Safe (No Action),Train Set
+500338,0.08,0,Safe (No Action),Train Set
+500341,0.75,1,High Risk (High-Value Incentive),Train Set
+500342,0.04,0,Safe (No Action),Train Set
+500343,0.12,0,Safe (No Action),Train Set
+500344,0.94,1,High Risk (High-Value Incentive),Train Set
+500345,0.62,1,Medium Risk (Targeted Offer),Test Set
+500347,0.05,0,Safe (No Action),Train Set
+500348,0.94,1,High Risk (High-Value Incentive),Train Set
+500350,0.05,0,Safe (No Action),Train Set
+500351,0.18,0,Safe (No Action),Test Set
+500352,0.53,1,Medium Risk (Targeted Offer),Test Set
+500353,0.15,0,Safe (No Action),Test Set
+500354,0.88,1,High Risk (High-Value Incentive),Train Set
+500355,0.0,0,Safe (No Action),Train Set
+500356,0.06,0,Safe (No Action),Train Set
+500357,0.52,1,Medium Risk (Targeted Offer),Test Set
+500359,0.16,0,Safe (No Action),Test Set
+500360,0.04,0,Safe (No Action),Test Set
+500361,0.67,1,Medium Risk (Targeted Offer),Train Set
+500362,0.98,1,High Risk (High-Value Incentive),Train Set
+500363,0.03,0,Safe (No Action),Train Set
+500364,0.02,0,Safe (No Action),Train Set
+500365,0.97,1,High Risk (High-Value Incentive),Train Set
+500366,0.01,0,Safe (No Action),Train Set
+500367,0.13,0,Safe (No Action),Train Set
+500368,0.08,0,Safe (No Action),Train Set
+500369,0.04,0,Safe (No Action),Train Set
+500370,0.12,0,Safe (No Action),Train Set
+500371,0.05,0,Safe (No Action),Train Set
+500373,0.07,0,Safe (No Action),Test Set
+500374,0.72,1,High Risk (High-Value Incentive),Train Set
+500376,0.77,1,High Risk (High-Value Incentive),Train Set
+500377,0.91,1,High Risk (High-Value Incentive),Train Set
+500378,0.13,0,Safe (No Action),Train Set
+500379,0.07,0,Safe (No Action),Train Set
+500380,0.11,0,Safe (No Action),Test Set
+500381,0.1,0,Safe (No Action),Train Set
+500382,0.04,0,Safe (No Action),Train Set
+500384,0.17,0,Safe (No Action),Train Set
+500385,0.08,0,Safe (No Action),Train Set
+500386,0.93,1,High Risk (High-Value Incentive),Train Set
+500387,0.1,0,Safe (No Action),Train Set
+500388,0.5,1,Medium Risk (Targeted Offer),Test Set
+500389,0.11,0,Safe (No Action),Test Set
+500390,0.22,0,Safe (No Action),Train Set
+500391,0.18,0,Safe (No Action),Train Set
+500393,0.03,0,Safe (No Action),Train Set
+500394,0.09,0,Safe (No Action),Test Set
+500395,0.51,1,Medium Risk (Targeted Offer),Test Set
+500396,0.91,1,High Risk (High-Value Incentive),Test Set
+500397,0.39,0,Low Risk (Automated Email),Test Set
+500398,0.15,0,Safe (No Action),Train Set
+500399,0.12,0,Safe (No Action),Train Set
+500400,0.04,0,Safe (No Action),Train Set
+500401,0.94,1,High Risk (High-Value Incentive),Train Set
+500402,0.24,0,Safe (No Action),Train Set
+500403,0.13,0,Safe (No Action),Train Set
+500404,0.1,0,Safe (No Action),Train Set
+500405,0.08,0,Safe (No Action),Train Set
+500406,0.87,1,High Risk (High-Value Incentive),Train Set
+500407,0.02,0,Safe (No Action),Train Set
+500408,0.09,0,Safe (No Action),Train Set
+500409,0.84,1,High Risk (High-Value Incentive),Train Set
+500411,0.06,0,Safe (No Action),Train Set
+500412,0.18,0,Safe (No Action),Test Set
+500413,0.09,0,Safe (No Action),Train Set
+500414,0.27,0,Safe (No Action),Train Set
+500415,0.73,1,High Risk (High-Value Incentive),Train Set
+500416,0.46,1,Medium Risk (Targeted Offer),Test Set
+500417,0.02,0,Safe (No Action),Train Set
+500418,0.97,1,High Risk (High-Value Incentive),Train Set
+500419,0.11,0,Safe (No Action),Train Set
+500420,0.26,0,Safe (No Action),Test Set
+500421,0.89,1,High Risk (High-Value Incentive),Train Set
+500422,0.08,0,Safe (No Action),Train Set
+500423,0.02,0,Safe (No Action),Train Set
+500424,0.06,0,Safe (No Action),Train Set
+500425,0.01,0,Safe (No Action),Train Set
+500426,0.3,0,Low Risk (Automated Email),Train Set
+500427,0.25,0,Safe (No Action),Test Set
+500428,0.13,0,Safe (No Action),Test Set
+500429,0.14,0,Safe (No Action),Train Set
+500430,0.03,0,Safe (No Action),Train Set
+500431,0.73,1,High Risk (High-Value Incentive),Train Set
+500432,0.11,0,Safe (No Action),Train Set
+500433,0.08,0,Safe (No Action),Train Set
+500435,0.12,0,Safe (No Action),Train Set
+500436,0.94,1,High Risk (High-Value Incentive),Test Set
+500437,0.89,1,High Risk (High-Value Incentive),Train Set
+500438,0.0,0,Safe (No Action),Train Set
+500439,0.06,0,Safe (No Action),Train Set
+500440,0.16,0,Safe (No Action),Train Set
+500441,0.13,0,Safe (No Action),Test Set
+500443,0.19,0,Safe (No Action),Train Set
+500444,0.94,1,High Risk (High-Value Incentive),Train Set
+500445,0.89,1,High Risk (High-Value Incentive),Train Set
+500446,0.09,0,Safe (No Action),Train Set
+500447,0.01,0,Safe (No Action),Train Set
+500448,0.04,0,Safe (No Action),Train Set
+500449,0.89,1,High Risk (High-Value Incentive),Train Set
+500451,0.97,1,High Risk (High-Value Incentive),Train Set
+500453,0.23,0,Safe (No Action),Train Set
+500454,0.67,1,Medium Risk (Targeted Offer),Train Set
+500455,0.28,0,Safe (No Action),Train Set
+500456,0.08,0,Safe (No Action),Test Set
+500457,0.04,0,Safe (No Action),Train Set
+500458,0.12,0,Safe (No Action),Train Set
+500459,0.82,1,High Risk (High-Value Incentive),Train Set
+500460,0.14,0,Safe (No Action),Train Set
+500461,0.99,1,High Risk (High-Value Incentive),Train Set
+500462,0.06,0,Safe (No Action),Train Set
+500463,0.01,0,Safe (No Action),Train Set
+500464,0.1,0,Safe (No Action),Train Set
+500466,0.19,0,Safe (No Action),Test Set
+500467,0.57,1,Medium Risk (Targeted Offer),Test Set
+500468,0.1,0,Safe (No Action),Train Set
+500469,0.81,1,High Risk (High-Value Incentive),Train Set
+500470,0.89,1,High Risk (High-Value Incentive),Train Set
+500471,0.11,0,Safe (No Action),Train Set
+500472,0.08,0,Safe (No Action),Test Set
+500473,0.16,0,Safe (No Action),Train Set
+500475,0.03,0,Safe (No Action),Train Set
+500476,0.07,0,Safe (No Action),Train Set
+500478,0.9,1,High Risk (High-Value Incentive),Train Set
+500479,0.16,0,Safe (No Action),Test Set
+500480,0.04,0,Safe (No Action),Train Set
+500481,0.16,0,Safe (No Action),Train Set
+500482,0.05,0,Safe (No Action),Train Set
+500483,0.87,1,High Risk (High-Value Incentive),Train Set
+500484,0.2,0,Safe (No Action),Train Set
+500485,0.09,0,Safe (No Action),Test Set
+500487,0.12,0,Safe (No Action),Train Set
+500488,0.01,0,Safe (No Action),Train Set
+500489,0.03,0,Safe (No Action),Train Set
+500490,0.1,0,Safe (No Action),Train Set
+500491,0.47,1,Medium Risk (Targeted Offer),Test Set
+500492,0.91,1,High Risk (High-Value Incentive),Train Set
+500493,0.09,0,Safe (No Action),Train Set
+500494,0.15,0,Safe (No Action),Test Set
+500495,0.07,0,Safe (No Action),Train Set
+500496,0.98,1,High Risk (High-Value Incentive),Train Set
+500497,0.13,0,Safe (No Action),Train Set
+500498,0.74,1,High Risk (High-Value Incentive),Train Set
+500499,0.83,1,High Risk (High-Value Incentive),Train Set
+500500,0.03,0,Safe (No Action),Train Set
+500501,0.75,1,High Risk (High-Value Incentive),Train Set
+500503,0.92,1,High Risk (High-Value Incentive),Train Set
+500504,0.18,0,Safe (No Action),Train Set
+500506,0.09,0,Safe (No Action),Train Set
+500507,0.09,0,Safe (No Action),Train Set
+500508,0.02,0,Safe (No Action),Train Set
+500510,0.05,0,Safe (No Action),Train Set
+500511,0.93,1,High Risk (High-Value Incentive),Train Set
+500512,0.03,0,Safe (No Action),Train Set
+500513,0.08,0,Safe (No Action),Train Set
+500514,0.36,0,Low Risk (Automated Email),Test Set
+500515,0.09,0,Safe (No Action),Train Set
+500516,0.07,0,Safe (No Action),Train Set
+500518,0.07,0,Safe (No Action),Train Set
+500519,0.67,1,Medium Risk (Targeted Offer),Train Set
+500520,0.01,0,Safe (No Action),Train Set
+500521,0.06,0,Safe (No Action),Train Set
+500522,0.06,0,Safe (No Action),Train Set
+500523,0.07,0,Safe (No Action),Train Set
+500524,0.18,0,Safe (No Action),Train Set
+500525,0.02,0,Safe (No Action),Train Set
+500526,0.41,1,Medium Risk (Targeted Offer),Test Set
+500527,0.03,0,Safe (No Action),Train Set
+500528,0.18,0,Safe (No Action),Test Set
+500529,0.09,0,Safe (No Action),Train Set
+500530,0.24,0,Safe (No Action),Train Set
+500531,0.09,0,Safe (No Action),Train Set
+500532,0.23,0,Safe (No Action),Test Set
+500533,0.08,0,Safe (No Action),Train Set
+500534,0.92,1,High Risk (High-Value Incentive),Train Set
+500535,0.04,0,Safe (No Action),Train Set
+500536,0.02,0,Safe (No Action),Train Set
+500537,0.11,0,Safe (No Action),Train Set
+500539,0.29,0,Safe (No Action),Train Set
+500540,0.11,0,Safe (No Action),Train Set
+500541,0.02,0,Safe (No Action),Train Set
+500542,0.04,0,Safe (No Action),Train Set
+500544,0.21,0,Safe (No Action),Train Set
+500545,0.98,1,High Risk (High-Value Incentive),Train Set
+500546,0.28,0,Safe (No Action),Test Set
+500548,0.12,0,Safe (No Action),Train Set
+500549,0.63,1,Medium Risk (Targeted Offer),Train Set
+500550,0.02,0,Safe (No Action),Train Set
+500552,0.06,0,Safe (No Action),Train Set
+500553,0.06,0,Safe (No Action),Train Set
+500554,0.02,0,Safe (No Action),Train Set
+500555,0.03,0,Safe (No Action),Train Set
+500556,0.72,1,High Risk (High-Value Incentive),Test Set
+500557,0.15,0,Safe (No Action),Train Set
+500558,0.32,0,Low Risk (Automated Email),Train Set
+500560,0.9,1,High Risk (High-Value Incentive),Train Set
+500561,0.05,0,Safe (No Action),Train Set
+500562,0.04,0,Safe (No Action),Train Set
+500564,0.82,1,High Risk (High-Value Incentive),Train Set
+500565,0.1,0,Safe (No Action),Train Set
+500566,0.96,1,High Risk (High-Value Incentive),Train Set
+500567,0.93,1,High Risk (High-Value Incentive),Train Set
+500568,0.56,1,Medium Risk (Targeted Offer),Test Set
+500569,0.99,1,High Risk (High-Value Incentive),Train Set
+500570,0.04,0,Safe (No Action),Train Set
+500571,0.6,1,Medium Risk (Targeted Offer),Test Set
+500573,0.74,1,High Risk (High-Value Incentive),Train Set
+500575,0.01,0,Safe (No Action),Train Set
+500576,0.67,1,Medium Risk (Targeted Offer),Train Set
+500579,0.05,0,Safe (No Action),Train Set
+500580,0.89,1,High Risk (High-Value Incentive),Train Set
+500581,0.63,1,Medium Risk (Targeted Offer),Train Set
+500582,0.85,1,High Risk (High-Value Incentive),Test Set
+500583,0.88,1,High Risk (High-Value Incentive),Train Set
+500584,0.93,1,High Risk (High-Value Incentive),Train Set
+500585,0.78,1,High Risk (High-Value Incentive),Train Set
+500586,0.03,0,Safe (No Action),Train Set
+500587,0.02,0,Safe (No Action),Train Set
+500588,1.0,1,High Risk (High-Value Incentive),Train Set
+500589,0.07,0,Safe (No Action),Train Set
+500590,0.98,1,High Risk (High-Value Incentive),Train Set
+500591,0.9,1,High Risk (High-Value Incentive),Train Set
+500592,0.19,0,Safe (No Action),Train Set
+500593,0.08,0,Safe (No Action),Train Set
+500594,0.19,0,Safe (No Action),Train Set
+500595,0.04,0,Safe (No Action),Train Set
+500597,0.28,0,Safe (No Action),Train Set
+500598,0.03,0,Safe (No Action),Train Set
+500599,0.08,0,Safe (No Action),Train Set
+500602,0.14,0,Safe (No Action),Train Set
+500603,1.0,1,High Risk (High-Value Incentive),Train Set
+500604,0.25,0,Safe (No Action),Train Set
+500605,0.07,0,Safe (No Action),Train Set
+500606,0.38,0,Low Risk (Automated Email),Test Set
+500607,0.84,1,High Risk (High-Value Incentive),Train Set
+500608,0.02,0,Safe (No Action),Train Set
+500609,0.02,0,Safe (No Action),Train Set
+500611,0.74,1,High Risk (High-Value Incentive),Test Set
+500612,0.94,1,High Risk (High-Value Incentive),Train Set
+500613,0.07,0,Safe (No Action),Train Set
+500614,0.79,1,High Risk (High-Value Incentive),Train Set
+500615,0.14,0,Safe (No Action),Train Set
+500616,0.15,0,Safe (No Action),Train Set
+500617,0.0,0,Safe (No Action),Train Set
+500618,0.01,0,Safe (No Action),Train Set
+500620,0.04,0,Safe (No Action),Train Set
+500621,0.92,1,High Risk (High-Value Incentive),Train Set
+500622,0.02,0,Safe (No Action),Train Set
+500623,0.08,0,Safe (No Action),Train Set
+500625,0.62,1,Medium Risk (Targeted Offer),Train Set
+500627,0.1,0,Safe (No Action),Train Set
+500628,0.77,1,High Risk (High-Value Incentive),Train Set
+500629,0.09,0,Safe (No Action),Train Set
+500631,0.45,1,Medium Risk (Targeted Offer),Test Set
+500632,0.88,1,High Risk (High-Value Incentive),Train Set
+500633,0.06,0,Safe (No Action),Train Set
+500634,0.93,1,High Risk (High-Value Incentive),Train Set
+500635,0.11,0,Safe (No Action),Train Set
+500636,0.06,0,Safe (No Action),Train Set
+500637,0.91,1,High Risk (High-Value Incentive),Train Set
+500638,0.01,0,Safe (No Action),Train Set
+500639,0.02,0,Safe (No Action),Train Set
+500640,0.7,1,High Risk (High-Value Incentive),Train Set
+500641,0.89,1,High Risk (High-Value Incentive),Train Set
+500642,0.18,0,Safe (No Action),Test Set
+500643,0.39,0,Low Risk (Automated Email),Test Set
+500644,0.72,1,High Risk (High-Value Incentive),Train Set
+500645,0.09,0,Safe (No Action),Train Set
+500646,0.0,0,Safe (No Action),Train Set
+500647,0.05,0,Safe (No Action),Train Set
+500648,0.11,0,Safe (No Action),Train Set
+500649,0.95,1,High Risk (High-Value Incentive),Train Set
+500650,0.37,0,Low Risk (Automated Email),Test Set
+500651,0.64,1,Medium Risk (Targeted Offer),Train Set
+500652,0.58,1,Medium Risk (Targeted Offer),Test Set
+500653,0.97,1,High Risk (High-Value Incentive),Train Set
+500654,0.97,1,High Risk (High-Value Incentive),Train Set
+500655,0.07,0,Safe (No Action),Train Set
+500656,0.21,0,Safe (No Action),Test Set
+500657,0.33,0,Low Risk (Automated Email),Train Set
+500658,0.03,0,Safe (No Action),Train Set
+500659,0.92,1,High Risk (High-Value Incentive),Train Set
+500660,0.14,0,Safe (No Action),Train Set
+500661,0.65,1,Medium Risk (Targeted Offer),Test Set
+500662,0.45,1,Medium Risk (Targeted Offer),Test Set
+500663,0.02,0,Safe (No Action),Train Set
+500665,0.05,0,Safe (No Action),Train Set
+500666,0.95,1,High Risk (High-Value Incentive),Train Set
+500667,0.12,0,Safe (No Action),Train Set
+500668,0.02,0,Safe (No Action),Train Set
+500669,0.76,1,High Risk (High-Value Incentive),Train Set
+500670,0.17,0,Safe (No Action),Test Set
+500671,0.0,0,Safe (No Action),Train Set
+500672,0.12,0,Safe (No Action),Train Set
+500673,0.18,0,Safe (No Action),Test Set
+500674,0.09,0,Safe (No Action),Test Set
+500675,0.08,0,Safe (No Action),Test Set
+500676,0.02,0,Safe (No Action),Test Set
+500677,0.93,1,High Risk (High-Value Incentive),Train Set
+500678,0.03,0,Safe (No Action),Train Set
+500679,0.14,0,Safe (No Action),Train Set
+500680,0.35,0,Low Risk (Automated Email),Test Set
+500681,0.72,1,High Risk (High-Value Incentive),Test Set
+500683,0.98,1,High Risk (High-Value Incentive),Train Set
+500684,0.26,0,Safe (No Action),Test Set
+500685,0.14,0,Safe (No Action),Train Set
+500686,0.07,0,Safe (No Action),Train Set
+500687,0.06,0,Safe (No Action),Train Set
+500689,0.8,1,High Risk (High-Value Incentive),Train Set
+500690,0.36,0,Low Risk (Automated Email),Test Set
+500691,0.03,0,Safe (No Action),Train Set
+500692,0.19,0,Safe (No Action),Test Set
+500693,0.16,0,Safe (No Action),Train Set
+500694,0.81,1,High Risk (High-Value Incentive),Train Set
+500696,0.03,0,Safe (No Action),Train Set
+500697,0.05,0,Safe (No Action),Train Set
+500698,0.03,0,Safe (No Action),Train Set
+500699,0.69,1,Medium Risk (Targeted Offer),Train Set
+500700,0.65,1,Medium Risk (Targeted Offer),Train Set
+500701,0.04,0,Safe (No Action),Train Set
+500702,0.75,1,High Risk (High-Value Incentive),Train Set
+500703,0.22,0,Safe (No Action),Train Set
+500704,0.03,0,Safe (No Action),Train Set
+500705,0.45,1,Medium Risk (Targeted Offer),Test Set
+500706,0.04,0,Safe (No Action),Train Set
+500707,0.17,0,Safe (No Action),Train Set
+500708,0.11,0,Safe (No Action),Train Set
+500709,0.1,0,Safe (No Action),Train Set
+500710,0.04,0,Safe (No Action),Train Set
+500711,0.08,0,Safe (No Action),Train Set
+500712,0.1,0,Safe (No Action),Train Set
+500714,0.03,0,Safe (No Action),Train Set
+500715,0.99,1,High Risk (High-Value Incentive),Train Set
+500716,0.17,0,Safe (No Action),Train Set
+500717,0.01,0,Safe (No Action),Train Set
+500718,0.06,0,Safe (No Action),Train Set
+500719,0.91,1,High Risk (High-Value Incentive),Train Set
+500720,0.85,1,High Risk (High-Value Incentive),Train Set
+500721,0.0,0,Safe (No Action),Train Set
+500722,0.79,1,High Risk (High-Value Incentive),Train Set
+500723,0.9,1,High Risk (High-Value Incentive),Train Set
+500724,0.7,1,High Risk (High-Value Incentive),Train Set
+500725,0.78,1,High Risk (High-Value Incentive),Train Set
+500726,0.11,0,Safe (No Action),Train Set
+500727,0.81,1,High Risk (High-Value Incentive),Train Set
+500728,0.05,0,Safe (No Action),Train Set
+500729,0.04,0,Safe (No Action),Train Set
+500731,0.08,0,Safe (No Action),Train Set
+500732,0.03,0,Safe (No Action),Train Set
+500733,0.03,0,Safe (No Action),Train Set
+500734,0.7,1,High Risk (High-Value Incentive),Train Set
+500735,0.33,0,Low Risk (Automated Email),Test Set
+500736,0.11,0,Safe (No Action),Train Set
+500738,0.77,1,High Risk (High-Value Incentive),Test Set
+500739,0.95,1,High Risk (High-Value Incentive),Train Set
+500740,0.09,0,Safe (No Action),Train Set
+500741,0.06,0,Safe (No Action),Train Set
+500742,0.13,0,Safe (No Action),Test Set
+500743,0.1,0,Safe (No Action),Train Set
+500744,0.03,0,Safe (No Action),Train Set
+500745,0.0,0,Safe (No Action),Train Set
+500746,0.12,0,Safe (No Action),Train Set
+500747,0.1,0,Safe (No Action),Train Set
+500748,0.0,0,Safe (No Action),Train Set
+500749,0.11,0,Safe (No Action),Train Set
+500750,0.86,1,High Risk (High-Value Incentive),Train Set
+500752,0.93,1,High Risk (High-Value Incentive),Train Set
+500753,0.23,0,Safe (No Action),Train Set
+500755,0.77,1,High Risk (High-Value Incentive),Train Set
+500756,0.88,1,High Risk (High-Value Incentive),Train Set
+500757,0.08,0,Safe (No Action),Train Set
+500758,0.08,0,Safe (No Action),Train Set
+500759,0.48,1,Medium Risk (Targeted Offer),Test Set
+500760,1.0,1,High Risk (High-Value Incentive),Train Set
+500762,0.7,1,High Risk (High-Value Incentive),Train Set
+500763,0.77,1,High Risk (High-Value Incentive),Train Set
+500764,0.08,0,Safe (No Action),Test Set
+500767,0.06,0,Safe (No Action),Train Set
+500768,0.84,1,High Risk (High-Value Incentive),Train Set
+500769,0.83,1,High Risk (High-Value Incentive),Train Set
+500771,0.03,0,Safe (No Action),Train Set
+500772,0.16,0,Safe (No Action),Test Set
+500773,0.77,1,High Risk (High-Value Incentive),Test Set
+500774,0.02,0,Safe (No Action),Train Set
+500775,0.09,0,Safe (No Action),Train Set
+500776,0.44,1,Medium Risk (Targeted Offer),Test Set
+500778,0.52,1,Medium Risk (Targeted Offer),Test Set
+500779,0.99,1,High Risk (High-Value Incentive),Train Set
+500780,0.05,0,Safe (No Action),Train Set
+500781,0.08,0,Safe (No Action),Test Set
+500782,0.57,1,Medium Risk (Targeted Offer),Test Set
+500783,0.61,1,Medium Risk (Targeted Offer),Test Set
+500785,0.95,1,High Risk (High-Value Incentive),Train Set
+500786,0.07,0,Safe (No Action),Train Set
+500787,0.84,1,High Risk (High-Value Incentive),Train Set
+500788,0.0,0,Safe (No Action),Train Set
+500790,0.89,1,High Risk (High-Value Incentive),Train Set
+500791,0.04,0,Safe (No Action),Train Set
+500793,0.14,0,Safe (No Action),Test Set
+500794,0.1,0,Safe (No Action),Train Set
+500796,0.95,1,High Risk (High-Value Incentive),Train Set
+500798,0.92,1,High Risk (High-Value Incentive),Train Set
+500799,0.37,0,Low Risk (Automated Email),Test Set
+500801,0.12,0,Safe (No Action),Train Set
+500802,0.67,1,Medium Risk (Targeted Offer),Train Set
+500803,0.24,0,Safe (No Action),Test Set
+500804,0.88,1,High Risk (High-Value Incentive),Train Set
+500806,0.23,0,Safe (No Action),Train Set
+500807,0.15,0,Safe (No Action),Train Set
+500808,0.8,1,High Risk (High-Value Incentive),Train Set
+500809,0.11,0,Safe (No Action),Test Set
+500810,0.11,0,Safe (No Action),Train Set
+500811,0.01,0,Safe (No Action),Train Set
+500812,0.03,0,Safe (No Action),Test Set
+500813,0.99,1,High Risk (High-Value Incentive),Train Set
+500814,0.97,1,High Risk (High-Value Incentive),Train Set
+500815,0.95,1,High Risk (High-Value Incentive),Train Set
+500816,0.77,1,High Risk (High-Value Incentive),Train Set
+500818,0.12,0,Safe (No Action),Train Set
+500819,0.95,1,High Risk (High-Value Incentive),Train Set
+500820,0.14,0,Safe (No Action),Test Set
+500821,0.43,1,Medium Risk (Targeted Offer),Test Set
+500822,0.97,1,High Risk (High-Value Incentive),Train Set
+500823,0.07,0,Safe (No Action),Train Set
+500824,0.03,0,Safe (No Action),Train Set
+500826,0.07,0,Safe (No Action),Train Set
+500827,0.83,1,High Risk (High-Value Incentive),Train Set
+500828,0.09,0,Safe (No Action),Train Set
+500829,0.12,0,Safe (No Action),Train Set
+500830,0.04,0,Safe (No Action),Train Set
+500831,0.06,0,Safe (No Action),Train Set
+500832,0.03,0,Safe (No Action),Train Set
+500834,0.78,1,High Risk (High-Value Incentive),Train Set
+500835,0.12,0,Safe (No Action),Train Set
+500836,0.36,0,Low Risk (Automated Email),Test Set
+500837,0.15,0,Safe (No Action),Train Set
+500838,0.04,0,Safe (No Action),Train Set
+500839,0.0,0,Safe (No Action),Train Set
+500840,0.45,1,Medium Risk (Targeted Offer),Test Set
+500841,0.04,0,Safe (No Action),Train Set
+500842,0.02,0,Safe (No Action),Train Set
+500844,0.05,0,Safe (No Action),Train Set
+500845,0.76,1,High Risk (High-Value Incentive),Train Set
+500846,0.19,0,Safe (No Action),Test Set
+500848,0.16,0,Safe (No Action),Train Set
+500849,0.71,1,High Risk (High-Value Incentive),Train Set
+500850,0.07,0,Safe (No Action),Train Set
+500851,0.07,0,Safe (No Action),Train Set
+500852,0.13,0,Safe (No Action),Train Set
+500853,0.77,1,High Risk (High-Value Incentive),Train Set
+500854,0.07,0,Safe (No Action),Train Set
+500856,0.04,0,Safe (No Action),Train Set
+500857,0.01,0,Safe (No Action),Train Set
+500858,0.04,0,Safe (No Action),Train Set
+500859,0.08,0,Safe (No Action),Train Set
+500860,0.94,1,High Risk (High-Value Incentive),Train Set
+500861,0.09,0,Safe (No Action),Test Set
+500863,0.04,0,Safe (No Action),Train Set
+500864,0.96,1,High Risk (High-Value Incentive),Train Set
+500865,0.02,0,Safe (No Action),Test Set
+500866,0.87,1,High Risk (High-Value Incentive),Train Set
+500867,0.69,1,Medium Risk (Targeted Offer),Train Set
+500868,0.92,1,High Risk (High-Value Incentive),Train Set
+500869,0.74,1,High Risk (High-Value Incentive),Train Set
+500870,0.05,0,Safe (No Action),Train Set
+500871,0.9,1,High Risk (High-Value Incentive),Train Set
+500872,0.9,1,High Risk (High-Value Incentive),Train Set
+500873,0.57,1,Medium Risk (Targeted Offer),Test Set
+500874,0.94,1,High Risk (High-Value Incentive),Train Set
+500875,0.2,0,Safe (No Action),Train Set
+500876,0.71,1,High Risk (High-Value Incentive),Train Set
+500877,0.13,0,Safe (No Action),Train Set
+500878,0.76,1,High Risk (High-Value Incentive),Test Set
+500880,0.11,0,Safe (No Action),Train Set
+500881,0.16,0,Safe (No Action),Test Set
+500882,0.74,1,High Risk (High-Value Incentive),Test Set
+500883,0.79,1,High Risk (High-Value Incentive),Train Set
+500884,0.32,0,Low Risk (Automated Email),Test Set
+500885,0.87,1,High Risk (High-Value Incentive),Train Set
+500886,0.79,1,High Risk (High-Value Incentive),Train Set
+500887,0.85,1,High Risk (High-Value Incentive),Train Set
+500888,0.16,0,Safe (No Action),Test Set
+500889,0.27,0,Safe (No Action),Test Set
+500890,0.08,0,Safe (No Action),Train Set
+500891,0.86,1,High Risk (High-Value Incentive),Train Set
+500892,0.01,0,Safe (No Action),Train Set
+500893,0.85,1,High Risk (High-Value Incentive),Train Set
+500894,0.65,1,Medium Risk (Targeted Offer),Test Set
+500895,0.69,1,Medium Risk (Targeted Offer),Train Set
+500896,0.16,0,Safe (No Action),Train Set
+500897,0.82,1,High Risk (High-Value Incentive),Train Set
+500898,0.12,0,Safe (No Action),Train Set
+500899,0.2,0,Safe (No Action),Train Set
+500900,0.05,0,Safe (No Action),Train Set
+500901,0.03,0,Safe (No Action),Train Set
+500902,0.78,1,High Risk (High-Value Incentive),Train Set
+500903,0.77,1,High Risk (High-Value Incentive),Train Set
+500904,0.92,1,High Risk (High-Value Incentive),Train Set
+500905,0.99,1,High Risk (High-Value Incentive),Train Set
+500906,0.75,1,High Risk (High-Value Incentive),Train Set
+500907,0.08,0,Safe (No Action),Train Set
+500908,0.19,0,Safe (No Action),Train Set
+500909,0.07,0,Safe (No Action),Test Set
+500910,0.02,0,Safe (No Action),Train Set
+500913,0.05,0,Safe (No Action),Train Set
+500914,0.11,0,Safe (No Action),Train Set
+500915,0.08,0,Safe (No Action),Test Set
+500916,0.76,1,High Risk (High-Value Incentive),Test Set
+500917,0.07,0,Safe (No Action),Train Set
+500918,0.82,1,High Risk (High-Value Incentive),Train Set
+500920,0.06,0,Safe (No Action),Train Set
+500921,0.0,0,Safe (No Action),Train Set
+500922,0.03,0,Safe (No Action),Train Set
+500923,0.11,0,Safe (No Action),Train Set
+500924,0.01,0,Safe (No Action),Train Set
+500925,0.73,1,High Risk (High-Value Incentive),Train Set
+500926,0.03,0,Safe (No Action),Train Set
+500927,0.18,0,Safe (No Action),Train Set
+500928,0.93,1,High Risk (High-Value Incentive),Train Set
+500929,0.14,0,Safe (No Action),Train Set
+500930,0.14,0,Safe (No Action),Train Set
+500931,0.21,0,Safe (No Action),Train Set
+500932,0.07,0,Safe (No Action),Train Set
+500933,0.97,1,High Risk (High-Value Incentive),Train Set
+500934,0.05,0,Safe (No Action),Train Set
+500935,0.02,0,Safe (No Action),Train Set
+500936,0.89,1,High Risk (High-Value Incentive),Train Set
+500937,0.89,1,High Risk (High-Value Incentive),Train Set
+500938,0.1,0,Safe (No Action),Train Set
+500939,0.16,0,Safe (No Action),Test Set
+500940,0.01,0,Safe (No Action),Train Set
+500941,0.68,1,Medium Risk (Targeted Offer),Test Set
+500942,0.05,0,Safe (No Action),Train Set
+500943,0.19,0,Safe (No Action),Train Set
+500944,0.82,1,High Risk (High-Value Incentive),Train Set
+500945,0.74,1,High Risk (High-Value Incentive),Train Set
+500947,0.07,0,Safe (No Action),Train Set
+500948,0.82,1,High Risk (High-Value Incentive),Train Set
+500949,0.04,0,Safe (No Action),Train Set
+500950,0.26,0,Safe (No Action),Test Set
+500951,0.85,1,High Risk (High-Value Incentive),Train Set
+500952,0.25,0,Safe (No Action),Test Set
+500953,0.27,0,Safe (No Action),Train Set
+500955,0.68,1,Medium Risk (Targeted Offer),Train Set
+500956,0.03,0,Safe (No Action),Train Set
+500957,0.02,0,Safe (No Action),Train Set
+500958,0.73,1,High Risk (High-Value Incentive),Train Set
+500959,0.09,0,Safe (No Action),Test Set
+500960,0.04,0,Safe (No Action),Train Set
+500961,0.18,0,Safe (No Action),Train Set
+500962,0.85,1,High Risk (High-Value Incentive),Train Set
+500963,0.06,0,Safe (No Action),Train Set
+500964,0.06,0,Safe (No Action),Train Set
+500965,0.22,0,Safe (No Action),Train Set
+500966,0.19,0,Safe (No Action),Test Set
+500967,0.03,0,Safe (No Action),Train Set
+500968,0.92,1,High Risk (High-Value Incentive),Train Set
+500969,0.13,0,Safe (No Action),Train Set
+500970,0.64,1,Medium Risk (Targeted Offer),Test Set
+500971,0.94,1,High Risk (High-Value Incentive),Train Set
+500972,0.9,1,High Risk (High-Value Incentive),Train Set
+500973,0.05,0,Safe (No Action),Train Set
+500974,0.03,0,Safe (No Action),Train Set
+500976,0.11,0,Safe (No Action),Train Set
+500977,0.95,1,High Risk (High-Value Incentive),Train Set
+500978,0.15,0,Safe (No Action),Test Set
+500979,0.03,0,Safe (No Action),Test Set
+500980,0.18,0,Safe (No Action),Test Set
+500981,0.78,1,High Risk (High-Value Incentive),Train Set
+500982,0.17,0,Safe (No Action),Test Set
+500983,0.97,1,High Risk (High-Value Incentive),Train Set
+500985,0.26,0,Safe (No Action),Test Set
+500986,0.11,0,Safe (No Action),Train Set
+500987,0.88,1,High Risk (High-Value Incentive),Train Set
+500988,0.74,1,High Risk (High-Value Incentive),Train Set
+500989,0.65,1,Medium Risk (Targeted Offer),Train Set
+500990,0.07,0,Safe (No Action),Train Set
+500991,0.98,1,High Risk (High-Value Incentive),Train Set
+500992,0.09,0,Safe (No Action),Train Set
+500993,0.11,0,Safe (No Action),Train Set
+500994,0.07,0,Safe (No Action),Train Set
+500996,0.43,1,Medium Risk (Targeted Offer),Test Set
+500997,0.16,0,Safe (No Action),Train Set
+500998,0.06,0,Safe (No Action),Train Set
+500999,0.05,0,Safe (No Action),Train Set
+501000,0.01,0,Safe (No Action),Train Set
+501001,0.97,1,High Risk (High-Value Incentive),Train Set
+501002,0.03,0,Safe (No Action),Train Set
+501003,0.14,0,Safe (No Action),Train Set
+501004,0.17,0,Safe (No Action),Test Set
+501005,0.81,1,High Risk (High-Value Incentive),Train Set
+501006,0.02,0,Safe (No Action),Train Set
+501007,0.08,0,Safe (No Action),Train Set
+501008,0.93,1,High Risk (High-Value Incentive),Train Set
+501009,0.13,0,Safe (No Action),Train Set
+501010,0.04,0,Safe (No Action),Train Set
+501012,0.04,0,Safe (No Action),Train Set
+501013,0.97,1,High Risk (High-Value Incentive),Train Set
+501014,0.14,0,Safe (No Action),Train Set
+501015,0.09,0,Safe (No Action),Train Set
+501016,0.69,1,Medium Risk (Targeted Offer),Train Set
+501018,0.02,0,Safe (No Action),Train Set
+501020,0.7,1,High Risk (High-Value Incentive),Test Set
+501021,0.04,0,Safe (No Action),Train Set
+501022,0.08,0,Safe (No Action),Train Set
+501023,0.18,0,Safe (No Action),Train Set
+501024,0.0,0,Safe (No Action),Train Set
+501025,0.0,0,Safe (No Action),Train Set
+501026,0.05,0,Safe (No Action),Test Set
+501027,0.02,0,Safe (No Action),Train Set
+501028,0.02,0,Safe (No Action),Train Set
+501029,0.79,1,High Risk (High-Value Incentive),Train Set
+501030,0.88,1,High Risk (High-Value Incentive),Train Set
+501031,0.06,0,Safe (No Action),Train Set
+501032,0.2,0,Safe (No Action),Train Set
+501033,0.66,1,Medium Risk (Targeted Offer),Train Set
+501034,0.81,1,High Risk (High-Value Incentive),Train Set
+501035,0.07,0,Safe (No Action),Train Set
+501038,0.22,0,Safe (No Action),Test Set
+501039,0.64,1,Medium Risk (Targeted Offer),Train Set
+501040,0.14,0,Safe (No Action),Train Set
+501041,0.07,0,Safe (No Action),Train Set
+501042,0.33,0,Low Risk (Automated Email),Test Set
+501043,0.26,0,Safe (No Action),Train Set
+501045,0.15,0,Safe (No Action),Train Set
+501046,0.51,1,Medium Risk (Targeted Offer),Test Set
+501047,0.05,0,Safe (No Action),Train Set
+501048,0.11,0,Safe (No Action),Train Set
+501050,0.08,0,Safe (No Action),Train Set
+501051,0.07,0,Safe (No Action),Train Set
+501052,0.95,1,High Risk (High-Value Incentive),Train Set
+501053,0.05,0,Safe (No Action),Train Set
+501054,0.12,0,Safe (No Action),Test Set
+501055,0.75,1,High Risk (High-Value Incentive),Train Set
+501056,0.7,1,High Risk (High-Value Incentive),Train Set
+501057,0.12,0,Safe (No Action),Train Set
+501058,0.78,1,High Risk (High-Value Incentive),Train Set
+501059,0.12,0,Safe (No Action),Train Set
+501060,0.12,0,Safe (No Action),Train Set
+501061,0.89,1,High Risk (High-Value Incentive),Test Set
+501062,0.56,1,Medium Risk (Targeted Offer),Test Set
+501063,0.1,0,Safe (No Action),Test Set
+501064,0.08,0,Safe (No Action),Train Set
+501065,0.91,1,High Risk (High-Value Incentive),Train Set
+501066,0.78,1,High Risk (High-Value Incentive),Test Set
+501067,0.93,1,High Risk (High-Value Incentive),Train Set
+501068,0.0,0,Safe (No Action),Train Set
+501069,0.87,1,High Risk (High-Value Incentive),Test Set
+501070,0.8,1,High Risk (High-Value Incentive),Test Set
+501071,0.97,1,High Risk (High-Value Incentive),Train Set
+501074,0.04,0,Safe (No Action),Train Set
+501075,0.05,0,Safe (No Action),Train Set
+501076,0.04,0,Safe (No Action),Train Set
+501077,0.11,0,Safe (No Action),Train Set
+501078,0.02,0,Safe (No Action),Train Set
+501079,0.08,0,Safe (No Action),Train Set
+501080,0.1,0,Safe (No Action),Train Set
+501082,0.06,0,Safe (No Action),Train Set
+501084,0.9,1,High Risk (High-Value Incentive),Train Set
+501085,0.39,0,Low Risk (Automated Email),Test Set
+501087,0.71,1,High Risk (High-Value Incentive),Train Set
+501088,0.66,1,Medium Risk (Targeted Offer),Test Set
+501089,0.06,0,Safe (No Action),Train Set
+501091,0.91,1,High Risk (High-Value Incentive),Train Set
+501093,0.12,0,Safe (No Action),Train Set
+501094,0.01,0,Safe (No Action),Train Set
+501095,0.7,1,High Risk (High-Value Incentive),Test Set
+501096,0.2,0,Safe (No Action),Test Set
+501097,0.7,1,High Risk (High-Value Incentive),Test Set
+501098,0.73,1,High Risk (High-Value Incentive),Train Set
+501099,0.99,1,High Risk (High-Value Incentive),Train Set
+501100,0.86,1,High Risk (High-Value Incentive),Train Set
+501101,0.03,0,Safe (No Action),Train Set
+501102,0.95,1,High Risk (High-Value Incentive),Train Set
+501103,0.05,0,Safe (No Action),Train Set
+501104,0.95,1,High Risk (High-Value Incentive),Train Set
+501105,0.12,0,Safe (No Action),Train Set
+501106,0.73,1,High Risk (High-Value Incentive),Train Set
+501107,0.88,1,High Risk (High-Value Incentive),Train Set
+501108,0.07,0,Safe (No Action),Train Set
+501109,0.22,0,Safe (No Action),Test Set
+501110,0.68,1,Medium Risk (Targeted Offer),Train Set
+501111,0.03,0,Safe (No Action),Train Set
+501112,0.44,1,Medium Risk (Targeted Offer),Test Set
+501113,0.88,1,High Risk (High-Value Incentive),Train Set
+501115,0.05,0,Safe (No Action),Train Set
+501116,0.93,1,High Risk (High-Value Incentive),Train Set
+501117,0.95,1,High Risk (High-Value Incentive),Train Set
+501118,0.71,1,High Risk (High-Value Incentive),Test Set
+501119,0.0,0,Safe (No Action),Train Set
+501120,0.04,0,Safe (No Action),Train Set
+501121,0.96,1,High Risk (High-Value Incentive),Train Set
+501122,0.04,0,Safe (No Action),Train Set
+501123,0.11,0,Safe (No Action),Train Set
+501124,0.09,0,Safe (No Action),Test Set
+501126,0.97,1,High Risk (High-Value Incentive),Train Set
+501127,0.64,1,Medium Risk (Targeted Offer),Train Set
+501129,0.19,0,Safe (No Action),Test Set
+501130,0.19,0,Safe (No Action),Test Set
+501131,0.06,0,Safe (No Action),Test Set
+501132,0.12,0,Safe (No Action),Test Set
+501133,0.08,0,Safe (No Action),Train Set
+501134,0.03,0,Safe (No Action),Train Set
+501135,0.05,0,Safe (No Action),Test Set
+501136,0.16,0,Safe (No Action),Test Set
+501137,0.12,0,Safe (No Action),Test Set
+501138,0.43,1,Medium Risk (Targeted Offer),Test Set
+501140,0.96,1,High Risk (High-Value Incentive),Train Set
+501141,0.7,1,High Risk (High-Value Incentive),Train Set
+501142,0.83,1,High Risk (High-Value Incentive),Test Set
+501143,0.06,0,Safe (No Action),Train Set
+501144,0.04,0,Safe (No Action),Train Set
+501145,0.84,1,High Risk (High-Value Incentive),Test Set
+501146,0.95,1,High Risk (High-Value Incentive),Train Set
+501147,0.06,0,Safe (No Action),Train Set
+501148,0.11,0,Safe (No Action),Train Set
+501149,0.04,0,Safe (No Action),Train Set
+501152,0.19,0,Safe (No Action),Train Set
+501153,0.03,0,Safe (No Action),Train Set
+501154,0.25,0,Safe (No Action),Train Set
+501156,0.15,0,Safe (No Action),Train Set
+501158,0.23,0,Safe (No Action),Test Set
+501160,0.24,0,Safe (No Action),Test Set
+501161,0.78,1,High Risk (High-Value Incentive),Train Set
+501162,0.38,0,Low Risk (Automated Email),Test Set
+501163,0.04,0,Safe (No Action),Train Set
+501164,0.09,0,Safe (No Action),Train Set
+501165,0.82,1,High Risk (High-Value Incentive),Train Set
+501166,0.95,1,High Risk (High-Value Incentive),Train Set
+501167,0.05,0,Safe (No Action),Train Set
+501168,0.76,1,High Risk (High-Value Incentive),Test Set
+501169,0.1,0,Safe (No Action),Test Set
+501170,0.11,0,Safe (No Action),Train Set
+501171,0.9,1,High Risk (High-Value Incentive),Train Set
+501173,0.85,1,High Risk (High-Value Incentive),Test Set
+501174,0.1,0,Safe (No Action),Train Set
+501175,0.96,1,High Risk (High-Value Incentive),Train Set
+501177,0.06,0,Safe (No Action),Train Set
+501178,0.04,0,Safe (No Action),Train Set
+501179,0.8,1,High Risk (High-Value Incentive),Train Set
+501181,0.97,1,High Risk (High-Value Incentive),Train Set
+501182,0.01,0,Safe (No Action),Train Set
+501183,0.17,0,Safe (No Action),Train Set
+501184,0.74,1,High Risk (High-Value Incentive),Train Set
+501185,0.97,1,High Risk (High-Value Incentive),Train Set
+501187,0.14,0,Safe (No Action),Train Set
+501188,0.0,0,Safe (No Action),Train Set
+501189,0.03,0,Safe (No Action),Train Set
+501190,0.77,1,High Risk (High-Value Incentive),Train Set
+501191,0.15,0,Safe (No Action),Train Set
+501192,0.93,1,High Risk (High-Value Incentive),Train Set
+501193,0.05,0,Safe (No Action),Train Set
+501194,0.33,0,Low Risk (Automated Email),Train Set
+501195,0.73,1,High Risk (High-Value Incentive),Train Set
+501196,0.94,1,High Risk (High-Value Incentive),Train Set
+501197,0.05,0,Safe (No Action),Train Set
+501198,0.13,0,Safe (No Action),Train Set
+501199,0.09,0,Safe (No Action),Train Set
+501200,0.9,1,High Risk (High-Value Incentive),Train Set
+501201,0.05,0,Safe (No Action),Train Set
+501202,0.05,0,Safe (No Action),Train Set
+501203,0.28,0,Safe (No Action),Test Set
+501204,0.01,0,Safe (No Action),Train Set
+501205,0.03,0,Safe (No Action),Test Set
+501206,0.02,0,Safe (No Action),Train Set
+501207,0.03,0,Safe (No Action),Train Set
+501208,0.85,1,High Risk (High-Value Incentive),Train Set
+501209,0.78,1,High Risk (High-Value Incentive),Train Set
+501210,0.76,1,High Risk (High-Value Incentive),Train Set
+501211,0.02,0,Safe (No Action),Test Set
+501212,0.9,1,High Risk (High-Value Incentive),Train Set
+501213,0.95,1,High Risk (High-Value Incentive),Train Set
+501214,0.02,0,Safe (No Action),Test Set
+501219,0.04,0,Safe (No Action),Train Set
+501220,0.36,0,Low Risk (Automated Email),Test Set
+501221,0.04,0,Safe (No Action),Train Set
+501222,0.1,0,Safe (No Action),Train Set
+501223,0.14,0,Safe (No Action),Train Set
+501224,0.1,0,Safe (No Action),Train Set
+501225,0.08,0,Safe (No Action),Train Set
+501226,0.04,0,Safe (No Action),Train Set
+501227,0.87,1,High Risk (High-Value Incentive),Train Set
+501228,0.18,0,Safe (No Action),Train Set
+501229,0.65,1,Medium Risk (Targeted Offer),Train Set
+501230,0.73,1,High Risk (High-Value Incentive),Train Set
+501232,0.02,0,Safe (No Action),Train Set
+501233,0.9,1,High Risk (High-Value Incentive),Train Set
+501234,0.0,0,Safe (No Action),Train Set
+501235,0.28,0,Safe (No Action),Test Set
+501236,0.62,1,Medium Risk (Targeted Offer),Test Set
+501237,0.07,0,Safe (No Action),Train Set
+501238,0.13,0,Safe (No Action),Train Set
+501239,0.35,0,Low Risk (Automated Email),Test Set
+501241,0.11,0,Safe (No Action),Train Set
+501242,0.14,0,Safe (No Action),Train Set
+501243,0.84,1,High Risk (High-Value Incentive),Train Set
+501244,0.77,1,High Risk (High-Value Incentive),Train Set
+501245,0.03,0,Safe (No Action),Train Set
+501246,0.11,0,Safe (No Action),Train Set
+501247,0.04,0,Safe (No Action),Train Set
+501249,0.87,1,High Risk (High-Value Incentive),Train Set
+501250,0.11,0,Safe (No Action),Train Set
+501251,0.96,1,High Risk (High-Value Incentive),Train Set
+501252,0.85,1,High Risk (High-Value Incentive),Train Set
+501253,0.77,1,High Risk (High-Value Incentive),Test Set
+501254,0.15,0,Safe (No Action),Train Set
+501255,0.0,0,Safe (No Action),Train Set
+501256,0.04,0,Safe (No Action),Train Set
+501257,0.09,0,Safe (No Action),Train Set
+501258,0.04,0,Safe (No Action),Train Set
+501260,0.91,1,High Risk (High-Value Incentive),Train Set
+501261,0.03,0,Safe (No Action),Train Set
+501262,0.94,1,High Risk (High-Value Incentive),Train Set
+501263,0.11,0,Safe (No Action),Train Set
+501265,0.89,1,High Risk (High-Value Incentive),Train Set
+501267,0.76,1,High Risk (High-Value Incentive),Test Set
+501268,0.83,1,High Risk (High-Value Incentive),Test Set
+501269,0.09,0,Safe (No Action),Train Set
+501270,0.97,1,High Risk (High-Value Incentive),Train Set
+501271,0.06,0,Safe (No Action),Train Set
+501272,0.85,1,High Risk (High-Value Incentive),Train Set
+501273,0.24,0,Safe (No Action),Test Set
+501275,0.03,0,Safe (No Action),Train Set
+501276,0.16,0,Safe (No Action),Train Set
+501277,0.73,1,High Risk (High-Value Incentive),Train Set
+501278,0.03,0,Safe (No Action),Train Set
+501279,0.04,0,Safe (No Action),Train Set
+501280,0.07,0,Safe (No Action),Train Set
+501283,0.21,0,Safe (No Action),Test Set
+501284,0.7,1,High Risk (High-Value Incentive),Train Set
+501285,0.08,0,Safe (No Action),Train Set
+501286,0.78,1,High Risk (High-Value Incentive),Train Set
+501287,0.91,1,High Risk (High-Value Incentive),Test Set
+501288,0.09,0,Safe (No Action),Train Set
+501289,0.01,0,Safe (No Action),Train Set
+501291,0.84,1,High Risk (High-Value Incentive),Train Set
+501292,0.67,1,Medium Risk (Targeted Offer),Test Set
+501293,0.96,1,High Risk (High-Value Incentive),Train Set
+501294,0.93,1,High Risk (High-Value Incentive),Train Set
+501295,0.77,1,High Risk (High-Value Incentive),Train Set
+501296,0.87,1,High Risk (High-Value Incentive),Train Set
+501297,0.85,1,High Risk (High-Value Incentive),Train Set
+501298,0.04,0,Safe (No Action),Train Set
+501299,0.91,1,High Risk (High-Value Incentive),Train Set
+501300,0.97,1,High Risk (High-Value Incentive),Train Set
+501301,0.15,0,Safe (No Action),Train Set
+501302,0.0,0,Safe (No Action),Train Set
+501303,0.81,1,High Risk (High-Value Incentive),Train Set
+501305,0.03,0,Safe (No Action),Train Set
+501306,0.02,0,Safe (No Action),Train Set
+501308,0.02,0,Safe (No Action),Train Set
+501309,0.23,0,Safe (No Action),Train Set
+501312,0.68,1,Medium Risk (Targeted Offer),Train Set
+501313,0.03,0,Safe (No Action),Train Set
+501314,0.04,0,Safe (No Action),Train Set
+501315,0.05,0,Safe (No Action),Train Set
+501316,0.03,0,Safe (No Action),Train Set
+501317,0.02,0,Safe (No Action),Train Set
+501318,0.67,1,Medium Risk (Targeted Offer),Test Set
+501319,0.55,1,Medium Risk (Targeted Offer),Test Set
+501320,0.24,0,Safe (No Action),Train Set
+501321,0.02,0,Safe (No Action),Train Set
+501322,0.01,0,Safe (No Action),Train Set
+501323,0.04,0,Safe (No Action),Train Set
+501324,0.89,1,High Risk (High-Value Incentive),Train Set
+501325,0.09,0,Safe (No Action),Test Set
+501326,0.53,1,Medium Risk (Targeted Offer),Test Set
+501328,0.37,0,Low Risk (Automated Email),Test Set
+501329,0.25,0,Safe (No Action),Test Set
+501330,0.1,0,Safe (No Action),Train Set
+501331,0.18,0,Safe (No Action),Test Set
+501332,0.65,1,Medium Risk (Targeted Offer),Train Set
+501333,0.12,0,Safe (No Action),Train Set
+501334,0.14,0,Safe (No Action),Train Set
+501335,0.65,1,Medium Risk (Targeted Offer),Train Set
+501336,0.95,1,High Risk (High-Value Incentive),Train Set
+501337,0.2,0,Safe (No Action),Train Set
+501338,0.71,1,High Risk (High-Value Incentive),Train Set
+501339,0.01,0,Safe (No Action),Train Set
+501340,0.06,0,Safe (No Action),Train Set
+501341,0.05,0,Safe (No Action),Train Set
+501342,0.1,0,Safe (No Action),Train Set
+501343,0.12,0,Safe (No Action),Train Set
+501344,0.06,0,Safe (No Action),Train Set
+501345,0.03,0,Safe (No Action),Train Set
+501346,0.1,0,Safe (No Action),Train Set
+501347,0.09,0,Safe (No Action),Test Set
+501348,0.01,0,Safe (No Action),Train Set
+501349,0.02,0,Safe (No Action),Train Set
+501350,0.85,1,High Risk (High-Value Incentive),Test Set
+501351,0.29,0,Safe (No Action),Test Set
+501352,0.93,1,High Risk (High-Value Incentive),Train Set
+501353,0.1,0,Safe (No Action),Train Set
+501354,0.82,1,High Risk (High-Value Incentive),Train Set
+501355,0.08,0,Safe (No Action),Train Set
+501356,0.69,1,Medium Risk (Targeted Offer),Test Set
+501357,0.29,0,Safe (No Action),Test Set
+501358,0.81,1,High Risk (High-Value Incentive),Train Set
+501359,0.02,0,Safe (No Action),Train Set
+501360,0.04,0,Safe (No Action),Train Set
+501363,0.94,1,High Risk (High-Value Incentive),Train Set
+501364,0.11,0,Safe (No Action),Train Set
+501365,0.02,0,Safe (No Action),Train Set
+501366,0.03,0,Safe (No Action),Train Set
+501367,0.72,1,High Risk (High-Value Incentive),Train Set
+501369,0.31,0,Low Risk (Automated Email),Test Set
+501370,0.66,1,Medium Risk (Targeted Offer),Test Set
+501371,0.02,0,Safe (No Action),Test Set
+501372,0.06,0,Safe (No Action),Train Set
+501373,0.17,0,Safe (No Action),Train Set
+501374,0.81,1,High Risk (High-Value Incentive),Train Set
+501375,0.48,1,Medium Risk (Targeted Offer),Test Set
+501376,0.84,1,High Risk (High-Value Incentive),Train Set
+501377,0.87,1,High Risk (High-Value Incentive),Train Set
+501379,0.09,0,Safe (No Action),Train Set
+501380,0.03,0,Safe (No Action),Train Set
+501381,0.14,0,Safe (No Action),Train Set
+501382,0.08,0,Safe (No Action),Train Set
+501383,0.94,1,High Risk (High-Value Incentive),Test Set
+501384,0.9,1,High Risk (High-Value Incentive),Train Set
+501385,0.91,1,High Risk (High-Value Incentive),Train Set
+501386,0.02,0,Safe (No Action),Train Set
+501387,0.08,0,Safe (No Action),Train Set
+501389,0.02,0,Safe (No Action),Train Set
+501390,0.12,0,Safe (No Action),Train Set
+501391,0.77,1,High Risk (High-Value Incentive),Train Set
+501392,0.7,1,High Risk (High-Value Incentive),Train Set
+501393,0.12,0,Safe (No Action),Train Set
+501394,0.93,1,High Risk (High-Value Incentive),Train Set
+501395,0.11,0,Safe (No Action),Train Set
+501396,0.03,0,Safe (No Action),Train Set
+501397,0.91,1,High Risk (High-Value Incentive),Train Set
+501398,0.97,1,High Risk (High-Value Incentive),Test Set
+501399,0.96,1,High Risk (High-Value Incentive),Train Set
+501400,0.34,0,Low Risk (Automated Email),Test Set
+501401,0.17,0,Safe (No Action),Train Set
+501402,0.15,0,Safe (No Action),Train Set
+501403,0.44,1,Medium Risk (Targeted Offer),Test Set
+501404,0.07,0,Safe (No Action),Test Set
+501405,0.05,0,Safe (No Action),Train Set
+501406,0.94,1,High Risk (High-Value Incentive),Train Set
+501407,0.09,0,Safe (No Action),Test Set
+501409,0.05,0,Safe (No Action),Train Set
+501410,0.08,0,Safe (No Action),Train Set
+501411,0.96,1,High Risk (High-Value Incentive),Train Set
+501412,0.38,0,Low Risk (Automated Email),Test Set
+501413,0.87,1,High Risk (High-Value Incentive),Train Set
+501414,0.91,1,High Risk (High-Value Incentive),Train Set
+501415,0.02,0,Safe (No Action),Train Set
+501417,0.13,0,Safe (No Action),Train Set
+501418,0.03,0,Safe (No Action),Train Set
+501419,0.17,0,Safe (No Action),Test Set
+501420,0.23,0,Safe (No Action),Test Set
+501421,0.79,1,High Risk (High-Value Incentive),Train Set
+501422,0.8,1,High Risk (High-Value Incentive),Train Set
+501423,0.98,1,High Risk (High-Value Incentive),Train Set
+501424,0.04,0,Safe (No Action),Train Set
+501425,0.17,0,Safe (No Action),Train Set
+501426,0.0,0,Safe (No Action),Train Set
+501427,0.85,1,High Risk (High-Value Incentive),Train Set
+501428,0.11,0,Safe (No Action),Train Set
+501429,0.69,1,Medium Risk (Targeted Offer),Train Set
+501430,0.26,0,Safe (No Action),Train Set
+501431,0.14,0,Safe (No Action),Train Set
+501432,0.03,0,Safe (No Action),Train Set
+501433,0.39,0,Low Risk (Automated Email),Test Set
+501435,0.0,0,Safe (No Action),Train Set
+501436,0.08,0,Safe (No Action),Train Set
+501437,0.16,0,Safe (No Action),Test Set
+501439,0.05,0,Safe (No Action),Train Set
+501440,0.06,0,Safe (No Action),Train Set
+501441,0.19,0,Safe (No Action),Train Set
+501442,0.63,1,Medium Risk (Targeted Offer),Train Set
+501443,0.74,1,High Risk (High-Value Incentive),Train Set
+501444,0.96,1,High Risk (High-Value Incentive),Train Set
+501445,0.96,1,High Risk (High-Value Incentive),Train Set
+501446,0.19,0,Safe (No Action),Train Set
+501447,0.12,0,Safe (No Action),Train Set
+501449,0.96,1,High Risk (High-Value Incentive),Train Set
+501450,0.13,0,Safe (No Action),Test Set
+501451,0.8,1,High Risk (High-Value Incentive),Test Set
+501452,0.01,0,Safe (No Action),Train Set
+501453,0.16,0,Safe (No Action),Train Set
+501454,0.71,1,High Risk (High-Value Incentive),Test Set
+501455,0.88,1,High Risk (High-Value Incentive),Train Set
+501456,0.09,0,Safe (No Action),Train Set
+501457,0.09,0,Safe (No Action),Train Set
+501458,0.2,0,Safe (No Action),Train Set
+501459,0.9,1,High Risk (High-Value Incentive),Train Set
+501460,0.15,0,Safe (No Action),Train Set
+501461,0.06,0,Safe (No Action),Train Set
+501462,0.12,0,Safe (No Action),Train Set
+501463,0.01,0,Safe (No Action),Train Set
+501464,0.51,1,Medium Risk (Targeted Offer),Test Set
+501465,0.0,0,Safe (No Action),Train Set
+501466,0.07,0,Safe (No Action),Train Set
+501468,0.04,0,Safe (No Action),Train Set
+501469,0.08,0,Safe (No Action),Test Set
+501470,0.09,0,Safe (No Action),Train Set
+501471,0.03,0,Safe (No Action),Train Set
+501472,0.02,0,Safe (No Action),Train Set
+501473,0.86,1,High Risk (High-Value Incentive),Train Set
+501474,0.15,0,Safe (No Action),Train Set
+501475,0.78,1,High Risk (High-Value Incentive),Test Set
+501476,0.16,0,Safe (No Action),Test Set
+501477,0.93,1,High Risk (High-Value Incentive),Train Set
+501478,0.98,1,High Risk (High-Value Incentive),Train Set
+501479,0.95,1,High Risk (High-Value Incentive),Test Set
+501480,0.3,0,Low Risk (Automated Email),Test Set
+501481,0.04,0,Safe (No Action),Train Set
+501482,0.13,0,Safe (No Action),Train Set
+501483,0.86,1,High Risk (High-Value Incentive),Train Set
+501484,0.08,0,Safe (No Action),Train Set
+501485,0.02,0,Safe (No Action),Train Set
+501486,0.07,0,Safe (No Action),Train Set
+501487,0.01,0,Safe (No Action),Train Set
+501488,0.09,0,Safe (No Action),Train Set
+501489,0.08,0,Safe (No Action),Train Set
+501490,0.89,1,High Risk (High-Value Incentive),Train Set
+501491,0.24,0,Safe (No Action),Train Set
+501493,0.14,0,Safe (No Action),Train Set
+501494,0.01,0,Safe (No Action),Train Set
+501495,0.78,1,High Risk (High-Value Incentive),Train Set
+501497,0.03,0,Safe (No Action),Train Set
+501499,0.14,0,Safe (No Action),Test Set
+501500,0.24,0,Safe (No Action),Train Set
+501502,0.74,1,High Risk (High-Value Incentive),Train Set
+501503,0.5,1,Medium Risk (Targeted Offer),Test Set
+501505,0.71,1,High Risk (High-Value Incentive),Train Set
+501506,0.83,1,High Risk (High-Value Incentive),Train Set
+501507,0.16,0,Safe (No Action),Train Set
+501508,0.95,1,High Risk (High-Value Incentive),Train Set
+501509,0.24,0,Safe (No Action),Test Set
+501511,0.05,0,Safe (No Action),Train Set
+501512,0.1,0,Safe (No Action),Train Set
+501513,0.09,0,Safe (No Action),Train Set
+501514,0.16,0,Safe (No Action),Test Set
+501515,0.89,1,High Risk (High-Value Incentive),Train Set
+501516,0.14,0,Safe (No Action),Train Set
+501517,0.68,1,Medium Risk (Targeted Offer),Train Set
+501518,0.02,0,Safe (No Action),Train Set
+501519,0.11,0,Safe (No Action),Test Set
+501520,0.66,1,Medium Risk (Targeted Offer),Test Set
+501521,0.95,1,High Risk (High-Value Incentive),Train Set
+501522,0.97,1,High Risk (High-Value Incentive),Train Set
+501523,0.01,0,Safe (No Action),Train Set
+501524,0.2,0,Safe (No Action),Train Set
+501525,0.88,1,High Risk (High-Value Incentive),Train Set
+501526,0.2,0,Safe (No Action),Train Set
+501527,0.02,0,Safe (No Action),Train Set
+501528,0.02,0,Safe (No Action),Train Set
+501529,0.11,0,Safe (No Action),Train Set
+501530,0.82,1,High Risk (High-Value Incentive),Train Set
+501531,0.87,1,High Risk (High-Value Incentive),Train Set
+501532,0.14,0,Safe (No Action),Test Set
+501534,0.16,0,Safe (No Action),Test Set
+501535,0.74,1,High Risk (High-Value Incentive),Train Set
+501536,0.96,1,High Risk (High-Value Incentive),Train Set
+501537,0.02,0,Safe (No Action),Train Set
+501538,0.08,0,Safe (No Action),Train Set
+501539,0.06,0,Safe (No Action),Train Set
+501540,0.07,0,Safe (No Action),Train Set
+501541,0.12,0,Safe (No Action),Train Set
+501542,0.06,0,Safe (No Action),Test Set
+501543,0.11,0,Safe (No Action),Test Set
+501544,0.56,1,Medium Risk (Targeted Offer),Test Set
+501545,0.08,0,Safe (No Action),Train Set
+501546,0.15,0,Safe (No Action),Test Set
+501547,0.01,0,Safe (No Action),Train Set
+501548,0.91,1,High Risk (High-Value Incentive),Train Set
+501549,0.07,0,Safe (No Action),Train Set
+501550,0.15,0,Safe (No Action),Test Set
+501551,0.23,0,Safe (No Action),Train Set
+501552,0.0,0,Safe (No Action),Train Set
+501554,0.1,0,Safe (No Action),Train Set
+501555,0.02,0,Safe (No Action),Train Set
+501556,0.91,1,High Risk (High-Value Incentive),Test Set
+501557,0.02,0,Safe (No Action),Train Set
+501558,0.94,1,High Risk (High-Value Incentive),Train Set
+501560,0.07,0,Safe (No Action),Train Set
+501561,0.11,0,Safe (No Action),Train Set
+501562,0.19,0,Safe (No Action),Test Set
+501565,0.12,0,Safe (No Action),Train Set
+501566,0.02,0,Safe (No Action),Train Set
+501568,0.0,0,Safe (No Action),Train Set
+501569,0.13,0,Safe (No Action),Train Set
+501570,0.87,1,High Risk (High-Value Incentive),Train Set
+501571,0.37,0,Low Risk (Automated Email),Test Set
+501572,0.11,0,Safe (No Action),Test Set
+501573,0.71,1,High Risk (High-Value Incentive),Train Set
+501574,0.88,1,High Risk (High-Value Incentive),Train Set
+501575,0.1,0,Safe (No Action),Train Set
+501576,0.65,1,Medium Risk (Targeted Offer),Train Set
+501577,0.02,0,Safe (No Action),Train Set
+501578,0.47,1,Medium Risk (Targeted Offer),Test Set
+501579,0.06,0,Safe (No Action),Train Set
+501580,0.98,1,High Risk (High-Value Incentive),Train Set
+501581,0.08,0,Safe (No Action),Train Set
+501582,0.91,1,High Risk (High-Value Incentive),Train Set
+501583,0.67,1,Medium Risk (Targeted Offer),Train Set
+501584,0.15,0,Safe (No Action),Train Set
+501585,0.14,0,Safe (No Action),Train Set
+501586,0.21,0,Safe (No Action),Train Set
+501587,0.08,0,Safe (No Action),Train Set
+501588,0.78,1,High Risk (High-Value Incentive),Train Set
+501589,0.1,0,Safe (No Action),Train Set
+501590,0.11,0,Safe (No Action),Train Set
+501591,0.14,0,Safe (No Action),Train Set
+501593,0.06,0,Safe (No Action),Train Set
+501594,0.08,0,Safe (No Action),Train Set
+501595,0.65,1,Medium Risk (Targeted Offer),Train Set
+501596,0.63,1,Medium Risk (Targeted Offer),Train Set
+501597,0.26,0,Safe (No Action),Train Set
+501598,0.11,0,Safe (No Action),Train Set
+501599,0.15,0,Safe (No Action),Test Set
+501600,0.86,1,High Risk (High-Value Incentive),Train Set
+501601,0.0,0,Safe (No Action),Train Set
+501603,0.07,0,Safe (No Action),Train Set
+501604,0.71,1,High Risk (High-Value Incentive),Train Set
+501605,0.85,1,High Risk (High-Value Incentive),Train Set
+501606,0.03,0,Safe (No Action),Train Set
+501607,0.04,0,Safe (No Action),Train Set
+501608,0.09,0,Safe (No Action),Train Set
+501609,0.03,0,Safe (No Action),Train Set
+501610,0.83,1,High Risk (High-Value Incentive),Train Set
+501611,0.12,0,Safe (No Action),Train Set
+501612,0.68,1,Medium Risk (Targeted Offer),Train Set
+501613,0.82,1,High Risk (High-Value Incentive),Train Set
+501614,0.79,1,High Risk (High-Value Incentive),Train Set
+501615,0.92,1,High Risk (High-Value Incentive),Train Set
+501616,0.02,0,Safe (No Action),Train Set
+501617,0.14,0,Safe (No Action),Train Set
+501618,0.02,0,Safe (No Action),Train Set
+501619,0.05,0,Safe (No Action),Train Set
+501621,0.96,1,High Risk (High-Value Incentive),Train Set
+501622,0.94,1,High Risk (High-Value Incentive),Train Set
+501623,0.89,1,High Risk (High-Value Incentive),Train Set
+501624,0.07,0,Safe (No Action),Train Set
+501625,0.01,0,Safe (No Action),Train Set
+501626,0.24,0,Safe (No Action),Train Set
+501627,0.54,1,Medium Risk (Targeted Offer),Test Set
+501628,0.25,0,Safe (No Action),Test Set
+501629,0.22,0,Safe (No Action),Train Set
+501630,0.95,1,High Risk (High-Value Incentive),Train Set
+501631,0.97,1,High Risk (High-Value Incentive),Train Set
+501632,0.1,0,Safe (No Action),Train Set
+501633,0.84,1,High Risk (High-Value Incentive),Train Set
+501634,0.02,0,Safe (No Action),Train Set
+501636,0.74,1,High Risk (High-Value Incentive),Train Set
+501637,0.03,0,Safe (No Action),Train Set
+501638,0.09,0,Safe (No Action),Train Set
+501639,0.74,1,High Risk (High-Value Incentive),Train Set
+501641,0.79,1,High Risk (High-Value Incentive),Train Set
+501642,0.11,0,Safe (No Action),Train Set
+501643,0.92,1,High Risk (High-Value Incentive),Train Set
+501644,0.76,1,High Risk (High-Value Incentive),Train Set
+501645,0.12,0,Safe (No Action),Test Set
+501646,0.17,0,Safe (No Action),Train Set
+501647,0.12,0,Safe (No Action),Train Set
+501648,0.14,0,Safe (No Action),Train Set
+501649,0.8,1,High Risk (High-Value Incentive),Train Set
+501650,0.02,0,Safe (No Action),Train Set
+501651,0.03,0,Safe (No Action),Train Set
+501653,0.11,0,Safe (No Action),Train Set
+501655,0.13,0,Safe (No Action),Train Set
+501656,0.77,1,High Risk (High-Value Incentive),Train Set
+501657,0.1,0,Safe (No Action),Train Set
+501659,0.94,1,High Risk (High-Value Incentive),Train Set
+501660,0.04,0,Safe (No Action),Train Set
+501661,0.18,0,Safe (No Action),Train Set
+501662,0.86,1,High Risk (High-Value Incentive),Train Set
+501663,0.76,1,High Risk (High-Value Incentive),Test Set
+501665,0.78,1,High Risk (High-Value Incentive),Train Set
+501667,0.27,0,Safe (No Action),Train Set
+501668,0.04,0,Safe (No Action),Train Set
+501669,0.79,1,High Risk (High-Value Incentive),Train Set
+501670,0.03,0,Safe (No Action),Test Set
+501671,0.02,0,Safe (No Action),Train Set
+501672,0.21,0,Safe (No Action),Train Set
+501673,0.3,0,Low Risk (Automated Email),Test Set
+501674,0.02,0,Safe (No Action),Train Set
+501675,0.18,0,Safe (No Action),Test Set
+501677,0.02,0,Safe (No Action),Train Set
+501678,0.26,0,Safe (No Action),Train Set
+501679,0.11,0,Safe (No Action),Test Set
+501680,0.31,0,Low Risk (Automated Email),Test Set
+501681,0.95,1,High Risk (High-Value Incentive),Train Set
+501682,0.23,0,Safe (No Action),Test Set
+501683,0.2,0,Safe (No Action),Test Set
+501684,0.86,1,High Risk (High-Value Incentive),Train Set
+501685,0.06,0,Safe (No Action),Train Set
+501687,0.85,1,High Risk (High-Value Incentive),Train Set
+501688,0.77,1,High Risk (High-Value Incentive),Train Set
+501689,0.15,0,Safe (No Action),Test Set
+501691,0.86,1,High Risk (High-Value Incentive),Train Set
+501692,0.51,1,Medium Risk (Targeted Offer),Test Set
+501693,0.07,0,Safe (No Action),Train Set
+501697,0.17,0,Safe (No Action),Train Set
+501698,0.07,0,Safe (No Action),Train Set
+501699,0.26,0,Safe (No Action),Train Set
+501701,0.3,0,Low Risk (Automated Email),Train Set
+501702,0.05,0,Safe (No Action),Train Set
+501703,0.87,1,High Risk (High-Value Incentive),Train Set
+501704,0.02,0,Safe (No Action),Train Set
+501705,0.02,0,Safe (No Action),Train Set
+501706,0.81,1,High Risk (High-Value Incentive),Train Set
+501707,0.05,0,Safe (No Action),Train Set
+501708,0.9,1,High Risk (High-Value Incentive),Train Set
+501709,0.18,0,Safe (No Action),Train Set
+501711,0.23,0,Safe (No Action),Train Set
+501712,0.19,0,Safe (No Action),Test Set
+501713,0.06,0,Safe (No Action),Train Set
+501714,0.07,0,Safe (No Action),Train Set
+501716,0.45,1,Medium Risk (Targeted Offer),Test Set
+501717,0.07,0,Safe (No Action),Train Set
+501718,0.16,0,Safe (No Action),Train Set
+501721,0.03,0,Safe (No Action),Train Set
+501722,0.78,1,High Risk (High-Value Incentive),Train Set
+501723,0.09,0,Safe (No Action),Train Set
+501724,0.22,0,Safe (No Action),Test Set
+501725,0.07,0,Safe (No Action),Train Set
+501726,0.05,0,Safe (No Action),Test Set
+501727,0.07,0,Safe (No Action),Train Set
+501728,0.06,0,Safe (No Action),Train Set
+501729,0.08,0,Safe (No Action),Train Set
+501730,0.67,1,Medium Risk (Targeted Offer),Train Set
+501731,0.08,0,Safe (No Action),Train Set
+501732,0.15,0,Safe (No Action),Test Set
+501733,0.09,0,Safe (No Action),Train Set
+501736,0.04,0,Safe (No Action),Train Set
+501737,0.66,1,Medium Risk (Targeted Offer),Test Set
+501739,0.06,0,Safe (No Action),Train Set
+501741,0.11,0,Safe (No Action),Train Set
+501742,0.02,0,Safe (No Action),Train Set
+501743,0.13,0,Safe (No Action),Train Set
+501744,0.92,1,High Risk (High-Value Incentive),Train Set
+501745,0.03,0,Safe (No Action),Train Set
+501746,0.77,1,High Risk (High-Value Incentive),Train Set
+501747,0.06,0,Safe (No Action),Train Set
+501748,0.35,0,Low Risk (Automated Email),Test Set
+501749,0.87,1,High Risk (High-Value Incentive),Train Set
+501750,0.06,0,Safe (No Action),Train Set
+501751,0.08,0,Safe (No Action),Test Set
+501753,0.07,0,Safe (No Action),Train Set
+501754,0.68,1,Medium Risk (Targeted Offer),Train Set
+501755,0.89,1,High Risk (High-Value Incentive),Train Set
+501756,0.71,1,High Risk (High-Value Incentive),Train Set
+501757,0.09,0,Safe (No Action),Train Set
+501758,0.13,0,Safe (No Action),Train Set
+501759,0.81,1,High Risk (High-Value Incentive),Train Set
+501760,0.06,0,Safe (No Action),Train Set
+501761,0.06,0,Safe (No Action),Train Set
+501762,0.76,1,High Risk (High-Value Incentive),Train Set
+501763,0.06,0,Safe (No Action),Train Set
+501764,0.17,0,Safe (No Action),Train Set
+501765,0.94,1,High Risk (High-Value Incentive),Train Set
+501766,0.14,0,Safe (No Action),Train Set
+501767,0.03,0,Safe (No Action),Train Set
+501769,0.02,0,Safe (No Action),Train Set
+501770,0.08,0,Safe (No Action),Train Set
+501771,0.7,1,High Risk (High-Value Incentive),Train Set
+501772,0.27,0,Safe (No Action),Train Set
+501773,0.02,0,Safe (No Action),Train Set
+501774,0.01,0,Safe (No Action),Train Set
+501775,0.11,0,Safe (No Action),Train Set
+501776,0.66,1,Medium Risk (Targeted Offer),Train Set
+501777,0.2,0,Safe (No Action),Train Set
+501778,0.44,1,Medium Risk (Targeted Offer),Test Set
+501779,0.08,0,Safe (No Action),Train Set
+501780,0.09,0,Safe (No Action),Test Set
+501781,0.49,1,Medium Risk (Targeted Offer),Test Set
+501782,0.24,0,Safe (No Action),Train Set
+501783,0.69,1,Medium Risk (Targeted Offer),Train Set
+501784,0.98,1,High Risk (High-Value Incentive),Train Set
+501785,0.17,0,Safe (No Action),Test Set
+501786,0.19,0,Safe (No Action),Test Set
+501787,0.11,0,Safe (No Action),Train Set
+501788,0.71,1,High Risk (High-Value Incentive),Train Set
+501791,0.75,1,High Risk (High-Value Incentive),Train Set
+501793,0.32,0,Low Risk (Automated Email),Test Set
+501794,0.93,1,High Risk (High-Value Incentive),Train Set
+501795,0.15,0,Safe (No Action),Test Set
+501796,0.17,0,Safe (No Action),Test Set
+501797,0.05,0,Safe (No Action),Train Set
+501799,0.13,0,Safe (No Action),Train Set
+501800,0.11,0,Safe (No Action),Train Set
+501802,0.82,1,High Risk (High-Value Incentive),Test Set
+501803,0.03,0,Safe (No Action),Test Set
+501804,0.69,1,Medium Risk (Targeted Offer),Train Set
+501805,0.05,0,Safe (No Action),Train Set
+501806,0.98,1,High Risk (High-Value Incentive),Train Set
+501807,0.67,1,Medium Risk (Targeted Offer),Train Set
+501808,0.92,1,High Risk (High-Value Incentive),Train Set
+501809,0.01,0,Safe (No Action),Train Set
+501811,0.92,1,High Risk (High-Value Incentive),Train Set
+501812,0.77,1,High Risk (High-Value Incentive),Train Set
+501813,0.97,1,High Risk (High-Value Incentive),Train Set
+501814,0.2,0,Safe (No Action),Test Set
+501815,0.02,0,Safe (No Action),Train Set
+501816,0.02,0,Safe (No Action),Train Set
+501817,0.82,1,High Risk (High-Value Incentive),Train Set
+501818,0.12,0,Safe (No Action),Train Set
+501819,0.08,0,Safe (No Action),Train Set
+501820,0.04,0,Safe (No Action),Train Set
+501821,0.15,0,Safe (No Action),Train Set
+501822,0.21,0,Safe (No Action),Train Set
+501824,0.96,1,High Risk (High-Value Incentive),Train Set
+501825,0.03,0,Safe (No Action),Train Set
+501826,0.1,0,Safe (No Action),Train Set
+501827,0.32,0,Low Risk (Automated Email),Test Set
+501829,0.99,1,High Risk (High-Value Incentive),Train Set
+501830,0.15,0,Safe (No Action),Train Set
+501831,0.29,0,Safe (No Action),Test Set
+501832,0.1,0,Safe (No Action),Train Set
+501833,0.06,0,Safe (No Action),Train Set
+501834,0.14,0,Safe (No Action),Train Set
+501835,0.03,0,Safe (No Action),Train Set
+501836,0.3,0,Low Risk (Automated Email),Test Set
+501837,0.9,1,High Risk (High-Value Incentive),Train Set
+501838,0.37,0,Low Risk (Automated Email),Test Set
+501839,0.95,1,High Risk (High-Value Incentive),Test Set
+501841,0.24,0,Safe (No Action),Test Set
+501842,0.37,0,Low Risk (Automated Email),Test Set
+501843,0.08,0,Safe (No Action),Train Set
+501844,0.82,1,High Risk (High-Value Incentive),Test Set
+501845,0.22,0,Safe (No Action),Train Set
+501847,0.95,1,High Risk (High-Value Incentive),Train Set
+501848,0.15,0,Safe (No Action),Train Set
+501849,0.09,0,Safe (No Action),Train Set
+501851,0.11,0,Safe (No Action),Train Set
+501852,0.92,1,High Risk (High-Value Incentive),Train Set
+501853,0.97,1,High Risk (High-Value Incentive),Train Set
+501854,0.14,0,Safe (No Action),Test Set
+501855,0.07,0,Safe (No Action),Train Set
+501856,0.11,0,Safe (No Action),Train Set
+501857,0.13,0,Safe (No Action),Train Set
+501858,0.0,0,Safe (No Action),Train Set
+501859,1.0,1,High Risk (High-Value Incentive),Train Set
+501860,0.74,1,High Risk (High-Value Incentive),Train Set
+501861,0.13,0,Safe (No Action),Test Set
+501862,0.86,1,High Risk (High-Value Incentive),Train Set
+501863,0.03,0,Safe (No Action),Train Set
+501864,0.11,0,Safe (No Action),Train Set
+501865,0.36,0,Low Risk (Automated Email),Test Set
+501866,0.59,1,Medium Risk (Targeted Offer),Test Set
+501867,0.08,0,Safe (No Action),Test Set
+501868,0.88,1,High Risk (High-Value Incentive),Train Set
+501869,0.71,1,High Risk (High-Value Incentive),Train Set
+501870,0.03,0,Safe (No Action),Train Set
+501871,0.96,1,High Risk (High-Value Incentive),Train Set
+501872,0.8,1,High Risk (High-Value Incentive),Train Set
+501873,0.11,0,Safe (No Action),Train Set
+501874,0.19,0,Safe (No Action),Train Set
+501875,0.85,1,High Risk (High-Value Incentive),Train Set
+501876,0.16,0,Safe (No Action),Test Set
+501877,0.83,1,High Risk (High-Value Incentive),Test Set
+501878,0.81,1,High Risk (High-Value Incentive),Train Set
+501879,0.73,1,High Risk (High-Value Incentive),Train Set
+501880,0.04,0,Safe (No Action),Train Set
+501881,0.8,1,High Risk (High-Value Incentive),Test Set
+501882,0.16,0,Safe (No Action),Train Set
+501883,0.12,0,Safe (No Action),Train Set
+501884,0.02,0,Safe (No Action),Train Set
+501885,0.99,1,High Risk (High-Value Incentive),Train Set
+501886,0.16,0,Safe (No Action),Train Set
+501887,0.65,1,Medium Risk (Targeted Offer),Train Set
+501889,0.05,0,Safe (No Action),Train Set
+501890,0.33,0,Low Risk (Automated Email),Test Set
+501891,0.97,1,High Risk (High-Value Incentive),Train Set
+501892,0.65,1,Medium Risk (Targeted Offer),Test Set
+501893,0.74,1,High Risk (High-Value Incentive),Train Set
+501894,0.85,1,High Risk (High-Value Incentive),Train Set
+501895,0.92,1,High Risk (High-Value Incentive),Train Set
+501896,0.16,0,Safe (No Action),Train Set
+501897,0.11,0,Safe (No Action),Train Set
+501899,0.04,0,Safe (No Action),Train Set
+501900,0.91,1,High Risk (High-Value Incentive),Train Set
+501901,0.02,0,Safe (No Action),Train Set
+501902,0.75,1,High Risk (High-Value Incentive),Train Set
+501905,0.9,1,High Risk (High-Value Incentive),Train Set
+501906,0.81,1,High Risk (High-Value Incentive),Train Set
+501908,0.84,1,High Risk (High-Value Incentive),Train Set
+501909,0.08,0,Safe (No Action),Test Set
+501910,0.49,1,Medium Risk (Targeted Offer),Test Set
+501911,0.22,0,Safe (No Action),Train Set
+501912,0.08,0,Safe (No Action),Train Set
+501913,0.85,1,High Risk (High-Value Incentive),Train Set
+501914,0.03,0,Safe (No Action),Train Set
+501915,0.02,0,Safe (No Action),Train Set
+501916,0.18,0,Safe (No Action),Train Set
+501917,0.73,1,High Risk (High-Value Incentive),Test Set
+501918,0.85,1,High Risk (High-Value Incentive),Train Set
+501919,0.88,1,High Risk (High-Value Incentive),Train Set
+501920,0.1,0,Safe (No Action),Train Set
+501921,0.05,0,Safe (No Action),Train Set
+501922,0.02,0,Safe (No Action),Train Set
+501923,0.15,0,Safe (No Action),Test Set
+501924,0.73,1,High Risk (High-Value Incentive),Train Set
+501926,0.79,1,High Risk (High-Value Incentive),Train Set
+501927,0.07,0,Safe (No Action),Train Set
+501928,0.14,0,Safe (No Action),Train Set
+501929,0.09,0,Safe (No Action),Train Set
+501930,0.84,1,High Risk (High-Value Incentive),Train Set
+501932,0.03,0,Safe (No Action),Train Set
+501933,0.04,0,Safe (No Action),Train Set
+501934,0.06,0,Safe (No Action),Train Set
+501935,0.1,0,Safe (No Action),Train Set
+501937,0.19,0,Safe (No Action),Train Set
+501940,0.45,1,Medium Risk (Targeted Offer),Test Set
+501941,0.85,1,High Risk (High-Value Incentive),Train Set
+501942,0.02,0,Safe (No Action),Train Set
+501943,0.06,0,Safe (No Action),Train Set
+501944,0.08,0,Safe (No Action),Train Set
+501945,0.13,0,Safe (No Action),Train Set
+501947,0.47,1,Medium Risk (Targeted Offer),Test Set
+501948,0.78,1,High Risk (High-Value Incentive),Train Set
+501949,0.1,0,Safe (No Action),Train Set
+501950,0.13,0,Safe (No Action),Train Set
+501951,0.99,1,High Risk (High-Value Incentive),Train Set
+501952,0.19,0,Safe (No Action),Train Set
+501953,0.86,1,High Risk (High-Value Incentive),Train Set
+501954,0.05,0,Safe (No Action),Train Set
+501955,0.19,0,Safe (No Action),Test Set
+501956,0.04,0,Safe (No Action),Train Set
+501958,0.02,0,Safe (No Action),Train Set
+501959,0.66,1,Medium Risk (Targeted Offer),Train Set
+501960,0.12,0,Safe (No Action),Train Set
+501961,0.8,1,High Risk (High-Value Incentive),Train Set
+501962,0.89,1,High Risk (High-Value Incentive),Train Set
+501963,0.04,0,Safe (No Action),Train Set
+501964,0.25,0,Safe (No Action),Test Set
+501965,0.58,1,Medium Risk (Targeted Offer),Test Set
+501966,0.06,0,Safe (No Action),Train Set
+501967,0.12,0,Safe (No Action),Train Set
+501968,0.96,1,High Risk (High-Value Incentive),Train Set
+501969,0.08,0,Safe (No Action),Train Set
+501970,0.04,0,Safe (No Action),Train Set
+501971,0.87,1,High Risk (High-Value Incentive),Train Set
+501972,0.94,1,High Risk (High-Value Incentive),Train Set
+501973,0.95,1,High Risk (High-Value Incentive),Train Set
+501974,0.89,1,High Risk (High-Value Incentive),Train Set
+501975,0.22,0,Safe (No Action),Train Set
+501976,0.09,0,Safe (No Action),Train Set
+501977,0.05,0,Safe (No Action),Train Set
+501978,0.72,1,High Risk (High-Value Incentive),Train Set
+501979,0.03,0,Safe (No Action),Train Set
+501980,0.05,0,Safe (No Action),Train Set
+501981,0.87,1,High Risk (High-Value Incentive),Train Set
+501982,0.02,0,Safe (No Action),Train Set
+501983,0.98,1,High Risk (High-Value Incentive),Train Set
+501984,0.86,1,High Risk (High-Value Incentive),Train Set
+501985,0.97,1,High Risk (High-Value Incentive),Train Set
+501986,0.64,1,Medium Risk (Targeted Offer),Train Set
+501987,0.03,0,Safe (No Action),Train Set
+501989,0.94,1,High Risk (High-Value Incentive),Train Set
+501990,0.81,1,High Risk (High-Value Incentive),Train Set
+501992,0.03,0,Safe (No Action),Train Set
+501993,0.9,1,High Risk (High-Value Incentive),Train Set
+501995,0.7,1,High Risk (High-Value Incentive),Train Set
+501996,0.14,0,Safe (No Action),Test Set
+501997,0.13,0,Safe (No Action),Test Set
+501998,0.16,0,Safe (No Action),Train Set
+501999,0.99,1,High Risk (High-Value Incentive),Train Set
+502001,0.96,1,High Risk (High-Value Incentive),Train Set
+502002,0.05,0,Safe (No Action),Train Set
+502003,0.68,1,Medium Risk (Targeted Offer),Test Set
+502004,0.49,1,Medium Risk (Targeted Offer),Test Set
+502005,0.13,0,Safe (No Action),Train Set
+502007,0.86,1,High Risk (High-Value Incentive),Train Set
+502008,0.03,0,Safe (No Action),Train Set
+502009,0.79,1,High Risk (High-Value Incentive),Train Set
+502010,0.98,1,High Risk (High-Value Incentive),Train Set
+502012,0.77,1,High Risk (High-Value Incentive),Train Set
+502013,0.85,1,High Risk (High-Value Incentive),Train Set
+502015,0.13,0,Safe (No Action),Test Set
+502016,0.22,0,Safe (No Action),Test Set
+502017,0.07,0,Safe (No Action),Train Set
+502018,0.96,1,High Risk (High-Value Incentive),Train Set
+502019,0.08,0,Safe (No Action),Train Set
+502020,0.06,0,Safe (No Action),Train Set
+502021,0.01,0,Safe (No Action),Train Set
+502022,0.29,0,Safe (No Action),Test Set
+502023,0.24,0,Safe (No Action),Test Set
+502024,0.1,0,Safe (No Action),Train Set
+502026,0.97,1,High Risk (High-Value Incentive),Train Set
+502027,0.93,1,High Risk (High-Value Incentive),Train Set
+502028,0.01,0,Safe (No Action),Train Set
+502029,0.2,0,Safe (No Action),Train Set
+502030,0.23,0,Safe (No Action),Train Set
+502031,0.01,0,Safe (No Action),Train Set
+502032,0.87,1,High Risk (High-Value Incentive),Train Set
+502033,0.69,1,Medium Risk (Targeted Offer),Train Set
+502034,0.19,0,Safe (No Action),Train Set
+502035,0.27,0,Safe (No Action),Test Set
+502037,0.95,1,High Risk (High-Value Incentive),Test Set
+502038,0.04,0,Safe (No Action),Train Set
+502039,0.87,1,High Risk (High-Value Incentive),Train Set
+502040,0.01,0,Safe (No Action),Train Set
+502041,0.82,1,High Risk (High-Value Incentive),Train Set
+502042,0.08,0,Safe (No Action),Train Set
+502043,0.07,0,Safe (No Action),Test Set
+502044,0.33,0,Low Risk (Automated Email),Train Set
+502045,0.14,0,Safe (No Action),Train Set
+502046,0.08,0,Safe (No Action),Train Set
+502047,0.2,0,Safe (No Action),Train Set
+502048,0.06,0,Safe (No Action),Test Set
+502049,0.37,0,Low Risk (Automated Email),Test Set
+502050,0.4,1,Medium Risk (Targeted Offer),Test Set
+502051,0.22,0,Safe (No Action),Test Set
+502052,0.03,0,Safe (No Action),Train Set
+502053,0.88,1,High Risk (High-Value Incentive),Train Set
+502054,0.91,1,High Risk (High-Value Incentive),Train Set
+502055,0.96,1,High Risk (High-Value Incentive),Train Set
+502056,0.22,0,Safe (No Action),Train Set
+502057,0.0,0,Safe (No Action),Train Set
+502058,0.86,1,High Risk (High-Value Incentive),Train Set
+502059,0.74,1,High Risk (High-Value Incentive),Train Set
+502060,0.87,1,High Risk (High-Value Incentive),Train Set
+502061,0.18,0,Safe (No Action),Test Set
+502062,0.82,1,High Risk (High-Value Incentive),Train Set
+502063,0.92,1,High Risk (High-Value Incentive),Train Set
+502064,0.01,0,Safe (No Action),Train Set
+502065,0.04,0,Safe (No Action),Train Set
+502066,0.75,1,High Risk (High-Value Incentive),Train Set
+502067,0.24,0,Safe (No Action),Train Set
+502068,0.91,1,High Risk (High-Value Incentive),Train Set
+502069,0.02,0,Safe (No Action),Test Set
+502070,0.79,1,High Risk (High-Value Incentive),Train Set
+502071,0.01,0,Safe (No Action),Train Set
+502072,0.07,0,Safe (No Action),Train Set
+502073,0.83,1,High Risk (High-Value Incentive),Train Set
+502074,0.02,0,Safe (No Action),Train Set
+502075,0.06,0,Safe (No Action),Train Set
+502076,0.09,0,Safe (No Action),Test Set
+502077,0.07,0,Safe (No Action),Train Set
+502078,0.83,1,High Risk (High-Value Incentive),Train Set
+502079,0.12,0,Safe (No Action),Train Set
+502080,0.05,0,Safe (No Action),Train Set
+502081,0.01,0,Safe (No Action),Train Set
+502082,0.03,0,Safe (No Action),Test Set
+502086,0.68,1,Medium Risk (Targeted Offer),Train Set
+502087,0.06,0,Safe (No Action),Train Set
+502088,0.85,1,High Risk (High-Value Incentive),Train Set
+502089,0.05,0,Safe (No Action),Train Set
+502091,0.84,1,High Risk (High-Value Incentive),Train Set
+502092,0.11,0,Safe (No Action),Test Set
+502093,0.91,1,High Risk (High-Value Incentive),Train Set
+502096,0.04,0,Safe (No Action),Train Set
+502097,0.82,1,High Risk (High-Value Incentive),Train Set
+502098,0.03,0,Safe (No Action),Train Set
+502099,0.02,0,Safe (No Action),Train Set
+502100,0.76,1,High Risk (High-Value Incentive),Test Set
+502101,0.05,0,Safe (No Action),Train Set
+502102,0.26,0,Safe (No Action),Train Set
+502103,1.0,1,High Risk (High-Value Incentive),Train Set
+502104,0.39,0,Low Risk (Automated Email),Test Set
+502105,0.0,0,Safe (No Action),Train Set
+502106,0.07,0,Safe (No Action),Test Set
+502107,0.77,1,High Risk (High-Value Incentive),Train Set
+502108,0.81,1,High Risk (High-Value Incentive),Train Set
+502109,0.03,0,Safe (No Action),Train Set
+502110,0.34,0,Low Risk (Automated Email),Test Set
+502111,0.9,1,High Risk (High-Value Incentive),Train Set
+502112,0.01,0,Safe (No Action),Train Set
+502113,0.81,1,High Risk (High-Value Incentive),Train Set
+502115,0.08,0,Safe (No Action),Test Set
+502116,0.31,0,Low Risk (Automated Email),Test Set
+502118,0.02,0,Safe (No Action),Train Set
+502119,0.21,0,Safe (No Action),Test Set
+502121,0.01,0,Safe (No Action),Train Set
+502122,0.03,0,Safe (No Action),Train Set
+502123,0.01,0,Safe (No Action),Train Set
+502124,0.07,0,Safe (No Action),Train Set
+502125,0.8,1,High Risk (High-Value Incentive),Train Set
+502126,0.29,0,Safe (No Action),Train Set
+502127,0.06,0,Safe (No Action),Train Set
+502128,0.91,1,High Risk (High-Value Incentive),Train Set
+502129,0.05,0,Safe (No Action),Train Set
+502130,0.51,1,Medium Risk (Targeted Offer),Test Set
+502131,0.83,1,High Risk (High-Value Incentive),Train Set
+502132,0.16,0,Safe (No Action),Train Set
+502133,0.2,0,Safe (No Action),Test Set
+502135,0.07,0,Safe (No Action),Train Set
+502137,0.03,0,Safe (No Action),Train Set
+502138,0.07,0,Safe (No Action),Train Set
+502139,0.38,0,Low Risk (Automated Email),Test Set
+502140,0.14,0,Safe (No Action),Train Set
+502141,0.18,0,Safe (No Action),Train Set
+502142,0.05,0,Safe (No Action),Train Set
+502143,0.02,0,Safe (No Action),Train Set
+502144,0.69,1,Medium Risk (Targeted Offer),Train Set
+502146,0.05,0,Safe (No Action),Train Set
+502147,0.95,1,High Risk (High-Value Incentive),Train Set
+502148,0.09,0,Safe (No Action),Train Set
+502149,0.15,0,Safe (No Action),Train Set
+502150,0.76,1,High Risk (High-Value Incentive),Train Set
+502152,0.28,0,Safe (No Action),Test Set
+502153,0.14,0,Safe (No Action),Train Set
+502155,0.01,0,Safe (No Action),Train Set
+502156,0.83,1,High Risk (High-Value Incentive),Train Set
+502157,0.21,0,Safe (No Action),Train Set
+502158,0.12,0,Safe (No Action),Train Set
+502160,0.03,0,Safe (No Action),Train Set
+502162,0.02,0,Safe (No Action),Train Set
+502163,0.97,1,High Risk (High-Value Incentive),Train Set
+502165,0.01,0,Safe (No Action),Train Set
+502166,0.99,1,High Risk (High-Value Incentive),Train Set
+502167,0.92,1,High Risk (High-Value Incentive),Test Set
+502168,0.39,0,Low Risk (Automated Email),Test Set
+502169,0.05,0,Safe (No Action),Test Set
+502170,0.61,1,Medium Risk (Targeted Offer),Test Set
+502171,0.02,0,Safe (No Action),Train Set
+502172,0.01,0,Safe (No Action),Train Set
+502174,0.94,1,High Risk (High-Value Incentive),Train Set
+502175,0.02,0,Safe (No Action),Train Set
+502178,0.09,0,Safe (No Action),Train Set
+502179,0.19,0,Safe (No Action),Train Set
+502180,0.19,0,Safe (No Action),Train Set
+502181,0.04,0,Safe (No Action),Train Set
+502182,0.29,0,Safe (No Action),Test Set
+502183,0.74,1,High Risk (High-Value Incentive),Train Set
+502184,0.24,0,Safe (No Action),Test Set
+502185,0.87,1,High Risk (High-Value Incentive),Train Set
+502186,0.86,1,High Risk (High-Value Incentive),Test Set
+502187,0.35,0,Low Risk (Automated Email),Test Set
+502188,0.06,0,Safe (No Action),Test Set
+502189,0.19,0,Safe (No Action),Train Set
+502190,0.8,1,High Risk (High-Value Incentive),Train Set
+502191,0.59,1,Medium Risk (Targeted Offer),Test Set
+502193,0.89,1,High Risk (High-Value Incentive),Train Set
+502194,0.26,0,Safe (No Action),Train Set
+502195,0.12,0,Safe (No Action),Train Set
+502196,0.24,0,Safe (No Action),Train Set
+502197,0.16,0,Safe (No Action),Test Set
+502198,0.35,0,Low Risk (Automated Email),Test Set
+502199,0.86,1,High Risk (High-Value Incentive),Test Set
+502200,0.96,1,High Risk (High-Value Incentive),Train Set
+502201,0.63,1,Medium Risk (Targeted Offer),Test Set
+502202,0.76,1,High Risk (High-Value Incentive),Test Set
+502203,0.04,0,Safe (No Action),Train Set
+502204,0.07,0,Safe (No Action),Train Set
+502206,0.12,0,Safe (No Action),Train Set
+502207,0.81,1,High Risk (High-Value Incentive),Train Set
+502208,0.57,1,Medium Risk (Targeted Offer),Train Set
+502209,0.04,0,Safe (No Action),Train Set
+502212,0.03,0,Safe (No Action),Train Set
+502213,0.76,1,High Risk (High-Value Incentive),Train Set
+502214,0.1,0,Safe (No Action),Train Set
+502215,0.9,1,High Risk (High-Value Incentive),Train Set
+502216,0.16,0,Safe (No Action),Train Set
+502217,0.18,0,Safe (No Action),Test Set
+502219,0.02,0,Safe (No Action),Train Set
+502220,0.95,1,High Risk (High-Value Incentive),Train Set
+502221,0.87,1,High Risk (High-Value Incentive),Train Set
+502222,0.93,1,High Risk (High-Value Incentive),Train Set
+502223,0.11,0,Safe (No Action),Train Set
+502224,0.98,1,High Risk (High-Value Incentive),Train Set
+502225,0.1,0,Safe (No Action),Test Set
+502226,0.07,0,Safe (No Action),Train Set
+502228,0.81,1,High Risk (High-Value Incentive),Train Set
+502229,0.86,1,High Risk (High-Value Incentive),Train Set
+502230,0.9,1,High Risk (High-Value Incentive),Train Set
+502231,0.14,0,Safe (No Action),Test Set
+502232,1.0,1,High Risk (High-Value Incentive),Train Set
+502233,0.18,0,Safe (No Action),Train Set
+502234,0.03,0,Safe (No Action),Train Set
+502235,0.98,1,High Risk (High-Value Incentive),Train Set
+502236,0.08,0,Safe (No Action),Train Set
+502237,0.27,0,Safe (No Action),Train Set
+502238,0.31,0,Low Risk (Automated Email),Test Set
+502239,0.05,0,Safe (No Action),Train Set
+502240,0.0,0,Safe (No Action),Train Set
+502241,0.01,0,Safe (No Action),Test Set
+502242,0.01,0,Safe (No Action),Train Set
+502244,0.08,0,Safe (No Action),Train Set
+502246,0.85,1,High Risk (High-Value Incentive),Train Set
+502247,0.96,1,High Risk (High-Value Incentive),Train Set
+502248,0.11,0,Safe (No Action),Test Set
+502251,0.32,0,Low Risk (Automated Email),Train Set
+502252,0.83,1,High Risk (High-Value Incentive),Test Set
+502253,0.13,0,Safe (No Action),Test Set
+502254,0.77,1,High Risk (High-Value Incentive),Test Set
+502255,0.9,1,High Risk (High-Value Incentive),Train Set
+502256,0.74,1,High Risk (High-Value Incentive),Train Set
+502258,0.79,1,High Risk (High-Value Incentive),Test Set
+502259,0.8,1,High Risk (High-Value Incentive),Train Set
+502260,0.01,0,Safe (No Action),Train Set
+502261,0.18,0,Safe (No Action),Test Set
+502263,0.06,0,Safe (No Action),Train Set
+502264,0.53,1,Medium Risk (Targeted Offer),Test Set
+502265,0.08,0,Safe (No Action),Train Set
+502267,0.74,1,High Risk (High-Value Incentive),Train Set
+502268,0.99,1,High Risk (High-Value Incentive),Train Set
+502269,0.01,0,Safe (No Action),Train Set
+502270,0.01,0,Safe (No Action),Train Set
+502271,0.19,0,Safe (No Action),Test Set
+502272,0.22,0,Safe (No Action),Train Set
+502273,0.05,0,Safe (No Action),Test Set
+502275,0.06,0,Safe (No Action),Test Set
+502276,0.09,0,Safe (No Action),Train Set
+502277,0.03,0,Safe (No Action),Train Set
+502278,0.15,0,Safe (No Action),Train Set
+502279,0.01,0,Safe (No Action),Train Set
+502281,0.04,0,Safe (No Action),Train Set
+502282,0.2,0,Safe (No Action),Train Set
+502283,0.57,1,Medium Risk (Targeted Offer),Test Set
+502284,0.7,1,High Risk (High-Value Incentive),Test Set
+502285,0.1,0,Safe (No Action),Train Set
+502286,0.29,0,Safe (No Action),Test Set
+502288,0.03,0,Safe (No Action),Test Set
+502289,0.08,0,Safe (No Action),Train Set
+502290,0.08,0,Safe (No Action),Train Set
+502291,0.86,1,High Risk (High-Value Incentive),Train Set
+502292,0.05,0,Safe (No Action),Train Set
+502293,0.16,0,Safe (No Action),Train Set
+502294,0.1,0,Safe (No Action),Train Set
+502295,0.48,1,Medium Risk (Targeted Offer),Test Set
+502296,0.08,0,Safe (No Action),Test Set
+502297,0.12,0,Safe (No Action),Train Set
+502298,0.08,0,Safe (No Action),Train Set
+502299,0.02,0,Safe (No Action),Train Set
+502300,0.03,0,Safe (No Action),Train Set
+502301,0.05,0,Safe (No Action),Train Set
+502303,0.74,1,High Risk (High-Value Incentive),Train Set
+502304,0.41,1,Medium Risk (Targeted Offer),Test Set
+502305,0.21,0,Safe (No Action),Train Set
+502306,0.04,0,Safe (No Action),Test Set
+502307,0.12,0,Safe (No Action),Train Set
+502308,0.93,1,High Risk (High-Value Incentive),Train Set
+502309,0.06,0,Safe (No Action),Train Set
+502310,0.3,0,Low Risk (Automated Email),Train Set
+502311,0.16,0,Safe (No Action),Train Set
+502312,0.91,1,High Risk (High-Value Incentive),Train Set
+502313,0.15,0,Safe (No Action),Test Set
+502314,0.11,0,Safe (No Action),Train Set
+502316,0.07,0,Safe (No Action),Train Set
+502320,0.52,1,Medium Risk (Targeted Offer),Test Set
+502321,0.03,0,Safe (No Action),Train Set
+502323,0.11,0,Safe (No Action),Train Set
+502324,0.17,0,Safe (No Action),Test Set
+502326,0.21,0,Safe (No Action),Train Set
+502327,0.06,0,Safe (No Action),Test Set
+502328,0.07,0,Safe (No Action),Train Set
+502329,0.04,0,Safe (No Action),Train Set
+502330,0.83,1,High Risk (High-Value Incentive),Train Set
+502331,0.85,1,High Risk (High-Value Incentive),Train Set
+502332,0.08,0,Safe (No Action),Train Set
+502333,0.85,1,High Risk (High-Value Incentive),Train Set
+502334,0.09,0,Safe (No Action),Train Set
+502335,0.23,0,Safe (No Action),Train Set
+502337,0.52,1,Medium Risk (Targeted Offer),Test Set
+502338,0.27,0,Safe (No Action),Train Set
+502339,0.08,0,Safe (No Action),Train Set
+502340,0.07,0,Safe (No Action),Train Set
+502341,0.3,0,Low Risk (Automated Email),Test Set
+502342,0.01,0,Safe (No Action),Train Set
+502343,0.1,0,Safe (No Action),Train Set
+502345,0.76,1,High Risk (High-Value Incentive),Train Set
+502346,0.02,0,Safe (No Action),Train Set
+502347,0.15,0,Safe (No Action),Test Set
+502348,0.06,0,Safe (No Action),Train Set
+502349,0.1,0,Safe (No Action),Train Set
+502350,0.89,1,High Risk (High-Value Incentive),Train Set
+502351,0.03,0,Safe (No Action),Train Set
+502352,0.07,0,Safe (No Action),Train Set
+502353,0.12,0,Safe (No Action),Train Set
+502354,0.02,0,Safe (No Action),Train Set
+502355,0.07,0,Safe (No Action),Train Set
+502356,0.01,0,Safe (No Action),Train Set
+502357,0.08,0,Safe (No Action),Train Set
+502358,0.04,0,Safe (No Action),Test Set
+502359,0.07,0,Safe (No Action),Train Set
+502361,0.13,0,Safe (No Action),Train Set
+502362,0.1,0,Safe (No Action),Test Set
+502363,0.01,0,Safe (No Action),Train Set
+502364,0.36,0,Low Risk (Automated Email),Test Set
+502365,0.99,1,High Risk (High-Value Incentive),Train Set
+502366,0.03,0,Safe (No Action),Train Set
+502367,0.09,0,Safe (No Action),Train Set
+502368,0.95,1,High Risk (High-Value Incentive),Train Set
+502369,0.13,0,Safe (No Action),Train Set
+502370,0.14,0,Safe (No Action),Test Set
+502372,0.04,0,Safe (No Action),Train Set
+502373,0.69,1,Medium Risk (Targeted Offer),Train Set
+502374,0.18,0,Safe (No Action),Test Set
+502375,0.8,1,High Risk (High-Value Incentive),Train Set
+502376,0.9,1,High Risk (High-Value Incentive),Train Set
+502377,0.07,0,Safe (No Action),Test Set
+502378,0.25,0,Safe (No Action),Train Set
+502379,0.09,0,Safe (No Action),Test Set
+502380,0.06,0,Safe (No Action),Train Set
+502381,0.11,0,Safe (No Action),Train Set
+502382,0.32,0,Low Risk (Automated Email),Train Set
+502383,0.08,0,Safe (No Action),Train Set
+502384,0.85,1,High Risk (High-Value Incentive),Train Set
+502385,0.05,0,Safe (No Action),Train Set
+502388,0.78,1,High Risk (High-Value Incentive),Test Set
+502389,0.13,0,Safe (No Action),Test Set
+502390,0.44,1,Medium Risk (Targeted Offer),Test Set
+502391,0.95,1,High Risk (High-Value Incentive),Train Set
+502393,0.02,0,Safe (No Action),Train Set
+502394,0.72,1,High Risk (High-Value Incentive),Test Set
+502396,0.64,1,Medium Risk (Targeted Offer),Train Set
+502397,0.15,0,Safe (No Action),Train Set
+502398,0.41,1,Medium Risk (Targeted Offer),Test Set
+502399,0.03,0,Safe (No Action),Train Set
+502400,0.47,1,Medium Risk (Targeted Offer),Test Set
+502403,0.32,0,Low Risk (Automated Email),Test Set
+502405,0.13,0,Safe (No Action),Train Set
+502406,0.07,0,Safe (No Action),Train Set
+502407,0.83,1,High Risk (High-Value Incentive),Train Set
+502409,0.16,0,Safe (No Action),Train Set
+502410,0.67,1,Medium Risk (Targeted Offer),Train Set
+502412,0.72,1,High Risk (High-Value Incentive),Test Set
+502413,0.02,0,Safe (No Action),Train Set
+502414,0.19,0,Safe (No Action),Test Set
+502415,0.71,1,High Risk (High-Value Incentive),Train Set
+502416,0.02,0,Safe (No Action),Train Set
+502417,0.09,0,Safe (No Action),Train Set
+502419,0.1,0,Safe (No Action),Test Set
+502420,0.65,1,Medium Risk (Targeted Offer),Train Set
+502421,0.3,0,Low Risk (Automated Email),Train Set
+502422,0.12,0,Safe (No Action),Train Set
+502423,0.91,1,High Risk (High-Value Incentive),Train Set
+502425,0.83,1,High Risk (High-Value Incentive),Train Set
+502426,0.81,1,High Risk (High-Value Incentive),Train Set
+502427,0.02,0,Safe (No Action),Train Set
+502429,0.89,1,High Risk (High-Value Incentive),Train Set
+502430,0.88,1,High Risk (High-Value Incentive),Train Set
+502431,0.06,0,Safe (No Action),Train Set
+502432,0.15,0,Safe (No Action),Train Set
+502433,0.78,1,High Risk (High-Value Incentive),Train Set
+502434,0.61,1,Medium Risk (Targeted Offer),Train Set
+502435,0.11,0,Safe (No Action),Test Set
+502436,0.05,0,Safe (No Action),Train Set
+502437,0.11,0,Safe (No Action),Train Set
+502438,0.93,1,High Risk (High-Value Incentive),Train Set
+502439,0.15,0,Safe (No Action),Train Set
+502440,0.54,1,Medium Risk (Targeted Offer),Test Set
+502441,0.13,0,Safe (No Action),Train Set
+502442,0.12,0,Safe (No Action),Test Set
+502443,0.81,1,High Risk (High-Value Incentive),Train Set
+502444,0.03,0,Safe (No Action),Train Set
+502445,0.02,0,Safe (No Action),Train Set
+502447,0.9,1,High Risk (High-Value Incentive),Test Set
+502448,0.71,1,High Risk (High-Value Incentive),Train Set
+502449,0.03,0,Safe (No Action),Train Set
+502450,0.1,0,Safe (No Action),Train Set
+502451,0.96,1,High Risk (High-Value Incentive),Train Set
+502453,0.47,1,Medium Risk (Targeted Offer),Test Set
+502454,0.07,0,Safe (No Action),Train Set
+502456,0.03,0,Safe (No Action),Train Set
+502457,0.15,0,Safe (No Action),Test Set
+502458,0.92,1,High Risk (High-Value Incentive),Train Set
+502459,0.0,0,Safe (No Action),Train Set
+502460,0.08,0,Safe (No Action),Train Set
+502461,0.29,0,Safe (No Action),Test Set
+502462,0.1,0,Safe (No Action),Test Set
+502463,0.93,1,High Risk (High-Value Incentive),Test Set
+502464,0.32,0,Low Risk (Automated Email),Test Set
+502465,0.1,0,Safe (No Action),Train Set
+502466,0.15,0,Safe (No Action),Train Set
+502467,0.42,1,Medium Risk (Targeted Offer),Test Set
+502468,0.05,0,Safe (No Action),Train Set
+502469,0.96,1,High Risk (High-Value Incentive),Train Set
+502470,0.03,0,Safe (No Action),Train Set
+502471,0.2,0,Safe (No Action),Test Set
+502472,0.04,0,Safe (No Action),Test Set
+502473,0.09,0,Safe (No Action),Train Set
+502474,0.68,1,Medium Risk (Targeted Offer),Test Set
+502475,0.13,0,Safe (No Action),Train Set
+502476,0.09,0,Safe (No Action),Train Set
+502478,0.19,0,Safe (No Action),Test Set
+502479,0.85,1,High Risk (High-Value Incentive),Train Set
+502480,0.0,0,Safe (No Action),Train Set
+502481,0.07,0,Safe (No Action),Train Set
+502482,0.9,1,High Risk (High-Value Incentive),Train Set
+502483,0.95,1,High Risk (High-Value Incentive),Train Set
+502484,0.25,0,Safe (No Action),Test Set
+502485,0.58,1,Medium Risk (Targeted Offer),Test Set
+502486,0.08,0,Safe (No Action),Train Set
+502487,0.04,0,Safe (No Action),Train Set
+502488,0.28,0,Safe (No Action),Train Set
+502489,0.06,0,Safe (No Action),Test Set
+502490,0.84,1,High Risk (High-Value Incentive),Train Set
+502491,0.13,0,Safe (No Action),Train Set
+502492,0.82,1,High Risk (High-Value Incentive),Train Set
+502494,0.29,0,Safe (No Action),Train Set
+502495,0.03,0,Safe (No Action),Train Set
+502496,0.09,0,Safe (No Action),Train Set
+502497,0.07,0,Safe (No Action),Train Set
+502498,0.93,1,High Risk (High-Value Incentive),Test Set
+502499,0.02,0,Safe (No Action),Train Set
+502500,0.17,0,Safe (No Action),Train Set
+502501,0.07,0,Safe (No Action),Train Set
+502502,0.01,0,Safe (No Action),Train Set
+502503,0.13,0,Safe (No Action),Train Set
+502504,0.05,0,Safe (No Action),Train Set
+502505,0.04,0,Safe (No Action),Train Set
+502506,0.14,0,Safe (No Action),Train Set
+502507,0.15,0,Safe (No Action),Train Set
+502508,0.93,1,High Risk (High-Value Incentive),Train Set
+502509,0.71,1,High Risk (High-Value Incentive),Train Set
+502510,0.13,0,Safe (No Action),Train Set
+502512,0.07,0,Safe (No Action),Train Set
+502513,0.08,0,Safe (No Action),Train Set
+502514,0.12,0,Safe (No Action),Train Set
+502515,0.08,0,Safe (No Action),Train Set
+502516,0.12,0,Safe (No Action),Train Set
+502518,0.26,0,Safe (No Action),Train Set
+502519,0.02,0,Safe (No Action),Train Set
+502520,0.87,1,High Risk (High-Value Incentive),Train Set
+502521,0.23,0,Safe (No Action),Test Set
+502522,0.99,1,High Risk (High-Value Incentive),Train Set
+502523,0.02,0,Safe (No Action),Train Set
+502524,0.25,0,Safe (No Action),Test Set
+502525,0.06,0,Safe (No Action),Test Set
+502526,0.77,1,High Risk (High-Value Incentive),Test Set
+502527,0.09,0,Safe (No Action),Train Set
+502528,0.06,0,Safe (No Action),Train Set
+502529,0.11,0,Safe (No Action),Test Set
+502530,0.74,1,High Risk (High-Value Incentive),Train Set
+502531,0.03,0,Safe (No Action),Test Set
+502532,0.14,0,Safe (No Action),Train Set
+502533,0.99,1,High Risk (High-Value Incentive),Train Set
+502535,0.65,1,Medium Risk (Targeted Offer),Train Set
+502536,0.04,0,Safe (No Action),Train Set
+502538,0.0,0,Safe (No Action),Train Set
+502539,0.18,0,Safe (No Action),Train Set
+502540,0.72,1,High Risk (High-Value Incentive),Train Set
+502541,0.53,1,Medium Risk (Targeted Offer),Test Set
+502542,0.86,1,High Risk (High-Value Incentive),Train Set
+502544,0.08,0,Safe (No Action),Train Set
+502545,0.93,1,High Risk (High-Value Incentive),Train Set
+502547,0.16,0,Safe (No Action),Train Set
+502548,0.67,1,Medium Risk (Targeted Offer),Train Set
+502549,0.12,0,Safe (No Action),Test Set
+502551,0.84,1,High Risk (High-Value Incentive),Train Set
+502552,0.05,0,Safe (No Action),Train Set
+502553,0.21,0,Safe (No Action),Train Set
+502554,0.9,1,High Risk (High-Value Incentive),Train Set
+502555,0.02,0,Safe (No Action),Train Set
+502556,0.91,1,High Risk (High-Value Incentive),Train Set
+502557,0.04,0,Safe (No Action),Test Set
+502558,0.01,0,Safe (No Action),Train Set
+502560,0.03,0,Safe (No Action),Train Set
+502562,0.7,1,High Risk (High-Value Incentive),Train Set
+502563,0.73,1,High Risk (High-Value Incentive),Test Set
+502564,0.06,0,Safe (No Action),Train Set
+502565,0.17,0,Safe (No Action),Train Set
+502567,0.07,0,Safe (No Action),Train Set
+502568,0.08,0,Safe (No Action),Train Set
+502569,0.22,0,Safe (No Action),Train Set
+502570,0.05,0,Safe (No Action),Train Set
+502571,0.06,0,Safe (No Action),Train Set
+502572,0.1,0,Safe (No Action),Train Set
+502573,0.31,0,Low Risk (Automated Email),Test Set
+502574,0.98,1,High Risk (High-Value Incentive),Train Set
+502578,0.2,0,Safe (No Action),Train Set
+502579,0.83,1,High Risk (High-Value Incentive),Test Set
+502580,0.18,0,Safe (No Action),Train Set
+502581,0.05,0,Safe (No Action),Train Set
+502582,0.1,0,Safe (No Action),Train Set
+502583,0.01,0,Safe (No Action),Train Set
+502584,0.48,1,Medium Risk (Targeted Offer),Test Set
+502585,0.09,0,Safe (No Action),Train Set
+502586,0.78,1,High Risk (High-Value Incentive),Test Set
+502587,0.87,1,High Risk (High-Value Incentive),Train Set
+502588,0.04,0,Safe (No Action),Train Set
+502589,0.93,1,High Risk (High-Value Incentive),Train Set
+502590,0.08,0,Safe (No Action),Train Set
+502591,0.08,0,Safe (No Action),Train Set
+502592,0.25,0,Safe (No Action),Test Set
+502594,0.01,0,Safe (No Action),Train Set
+502595,0.94,1,High Risk (High-Value Incentive),Train Set
+502596,0.05,0,Safe (No Action),Train Set
+502597,0.97,1,High Risk (High-Value Incentive),Train Set
+502598,0.09,0,Safe (No Action),Train Set
+502600,0.79,1,High Risk (High-Value Incentive),Train Set
